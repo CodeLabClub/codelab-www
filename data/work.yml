@@ -1,0 +1,85 @@
+enable: true
+title: Just some of our latest projects.
+subtitle: Don’t just take our word for it. Check out some of our latest work.
+
+portfolio:
+  # 图片 365x300
+  - category: 空间编程
+    url: "https://blog.just4fun.site/about-codelab-club.html#neverland"
+    image: "img/portfolio/smart-home.jpg"
+    name: 小飞侠彼得潘
+    description: >
+      飞往永无乡，那儿有仙子、海盗、印第安人
+  - category: 火星计划
+    url: "https://blog.just4fun.site/about-codelab-club.html#neverland"
+    image: "img/portfolio/Explorer.jpg"
+    name: 火星车
+    description: >
+      星辰大海，诗与远方
+  - category: 颜色编程
+    url: "https://blog.just4fun.site/scratch3-rainbow.html"
+    image: "img/portfolio/candy.jpg"
+    name: 彩虹糖
+    description: >
+      阳光总在风雨后，请相信有彩虹
+  - category: 魔法世界
+    url: "https://codelab-adapter-docs.codelab.club/user_guide/gallery/#incendio"
+    image: "img/portfolio/potter.jpg"
+    name: Incendio
+    description: >
+      火焰熊熊
+  - category: 贪吃机器人
+    url: "https://blog.just4fun.site/Hungry-Robot-Eat-everything.html"
+    image: "img/portfolio/hungry-robot.jpg"
+    name: 贪吃机器人
+    description: >
+      大肚能容，容天下难容之事
+  - category: Cozmo
+    url: "https://blog.just4fun.site/cozmo-hello-world.html"
+    image: "img/portfolio/cozmo.jpg"
+    name: oh my Cozmo
+    description: >
+      hey cozmo, what's this? 
+  # - category: Graphics
+  #   url: "#"
+  #   image: "/img/portfolio/work2.jpg"
+  #   name: Tesla Motors
+  #   description: >
+  #     Labore et dolore magna aliqua. Ut enim ad
+  # - category: Design
+  #   url: "#"
+  #   image: "/img/portfolio/work3.jpg"
+  #   name: Tesla Motors
+  #   description: >
+  #     Labore et dolore magna aliqua. Ut enim ad
+  # - category: Video
+  #   url: "#"
+  #   image: "/img/portfolio/work4.jpg"
+  #   name: Tesla Motors
+  #   description: >
+  #     Labore et dolore magna aliqua. Ut enim ad
+clients:
+  # - image: "/img/clients/clients-logo1.png"
+  #   url: "#"
+  # - image: "/img/clients/clients-logo2.png"
+  #   url: "#"
+  # - image: "/img/clients/clients-logo3.png"
+  #   url: "#"
+  # - image: "/img/clients/clients-logo4.png"
+  #   url: "#"
+  # - image: "/img/clients/clients-logo5.png"
+  #   url: "#"
+  # - image: "/img/clients/clients-logo4.png"
+  #   url: "#"
+  # - image: "/img/clients/clients-logo3.png"
+  #   url: "#"
+  # - image: "/img/clients/clients-logo2.png"
+  #   url: "#"
+  # - image: "/img/clients/clients-logo1.png"
+  #   url: "#"
+  # - image: "/img/clients/clients-logo2.png"
+  #   url: "#"
+  # - image: "/img/clients/clients-logo3.png"
+  #   url: "#"
+  # - image: "/img/clients/clients-logo4.png"
+  #   url: "#"

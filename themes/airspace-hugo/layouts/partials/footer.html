@@ -1,0 +1,20 @@
+<!-- footer Start -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10">
+        <div class="footer-manu">
+          <ul>
+            {{ range .Site.Menus.footer }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <p>Copyright &copy; Design &amp; Developed by Themefisher. All rights reserved.</p>
+      </div>
+      <div class="col-md-2">
+        <img src="http://scratch3-files.just4fun.site/codelabclub.jpg" width=100px />
+      </div>
+    </div>
+  </div>
+</footer>

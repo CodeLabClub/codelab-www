@@ -1,0 +1,51 @@
+enable: true
+# 谈论关于编程和教育，图案是编程语言或者教育
+title: 我们相信
+paragraph: >
+  如果你想走得快，一个人走; 如果你想走得远，一群人走  
+
+# 数据用什么呢,用图片
+numbers:
+  - icon: ion-ios-chatboxes-outline
+    counter: 2000
+    text: projects
+  - icon: ion-ios-glasses-outline
+    counter: 2000
+    text: Cups of Coffee
+  - icon: ion-ios-compose-outline
+    counter: 2000
+    text: Cups of Coffee
+  - icon: ion-ios-timer-outline
+    counter: 2000
+    text: Cups of Coffee
+
+# 使用 艾伦.凯 皮亚杰 papert 米切尔
+people:
+  - text: >
+      预测未来的最佳方式就是去创造它
+    image: img/alan_kay.jpg
+    name: Alan Curtis Kay
+  - text: >
+      在某一天，在某一个地方，因为某种原因，创造出了一个不可思议的、美丽的、摄人心魄的场所，在那里人们可以漫步，可以梦想，历经很多世纪绵延不绝.
+    image: img/Christopher_Alexander.jpg
+    name: Christopher Alexander
+    # role: CEO-Themefisher
+    # role: CEO-Themefisher
+  # 计算机对我而言是它是我们曾经想到的最卓越的工具，它相当于我们头脑中的自行车。
+  - text: >
+      What a computer is to me is it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.
+    image: img/young_Steve_Jobs.jpg
+    name: Young Steve Jobs
+    # role: CEO-Themefisher
+  - text: >
+      学习编程能帮你组织、表达和分享你的想法，就像学习写作一样
+    image: img/Mitchel_Resnick.jpg
+    name: Mitchel Resnick
+    # role: CEO-Themefisher
+  - text: >
+      学习是必须亲力亲为的，教育则是外界加诸你身上的
+    image: img/Joi_Ito.jpg
+    name: Joi Ito
+    # role: CEO-Themefisher
+    
+
