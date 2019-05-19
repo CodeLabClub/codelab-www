@@ -2,6 +2,13 @@
 <html>
 <head>
 	{{ partial "head.html" . }}
+	<style>
+		@media (max-width: 600px) {
+			div.container div.block img, div.container div.block video {
+				width: 100%;
+			}
+		}
+	</style>
 </head>
 <body>
 
