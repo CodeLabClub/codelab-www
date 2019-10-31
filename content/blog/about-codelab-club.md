@@ -5,7 +5,7 @@ date: 2018-11-08
 tags: ["codelab"]
 ---
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/creative_6bc22f2f.png" />
+<img class="img-responsive" src="/img/creative_6bc22f2f.png" />
 
 [codelab.club](https://www.codelab.club/)是一个非营利组织。
 

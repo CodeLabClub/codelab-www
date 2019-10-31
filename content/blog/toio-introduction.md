@@ -5,7 +5,7 @@ date: 2019-07-09
 tags: ["programming"]
 ---
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/toio_codelab_24321ed1.png" />
+<img class="img-responsive" src="/img/toio_codelab_24321ed1.png" />
 
 
 >  可是，她的轮子在哪里？  -- 爱因斯坦(2岁半)
@@ -113,7 +113,7 @@ toio是一个小方块，长宽都为32毫米, 我们可以将小方块视为一
 
 `位置，方向和时间`是制作toio项目的技巧，这个说法不是我提出来的，是toio三位主创在[接受采访](https://toio.io/interview.html)时提到的.
 
-![](http://wwj-fig-bed.just4fun.site/toio_c17ae487.png)
+![](/img/toio_c17ae487.png)
 
 他们解释了位置、方向的技术含义，但并未对`时间`做出确切解释，上述关于时间的讨论是我自己的临场发挥。
 
@@ -163,14 +163,14 @@ toio是一个简单的机器人，看起来只是一个朴实的小方块。
 我们已经将toio接入到了CodeLab Scratch，它已融入Neverland大家庭，它可以与Neverland空间中的任何事物互动。看一些例子:
 
 ### 给我一个toio，我可以转动地球
-<video width="300px" src="http://scratch3-files.just4fun.site/Rotating-the-earth%20.mp4" controls="controls"></video>
+<video width="300px" src="/img/Rotating-the-earth%20.mp4" controls="controls"></video>
 
 
 ### 在你转身之后，岁月黯淡无光
-<video width="300px" src="http://scratch3-files.just4fun.site/toio_neverland_logo_light.mp4" controls="controls"></video>
+<video width="300px" src="/img/toio_neverland_logo_light.mp4" controls="controls"></video>
 
 ### 天空没有留下鸟的痕迹，但toio已飞过
-<video width="300px" src="http://scratch3-files.just4fun.site/toio_fly.mp4" controls="controls"></video>
+<video width="300px" src="/img/toio_fly.mp4" controls="controls"></video>
 
 
 ### 复现etoys里的教程
@@ -178,11 +178,11 @@ toio是一个简单的机器人，看起来只是一个朴实的小方块。
 
 第一个例子，与etoys首页的例子相似。
 
-<video width="300px" src="http://wwj-tmp-video.just4fun.site/toio-etoys.mp4" controls="controls"></video>
+<video width="300px" src="/img/toio-etoys2.mp4" controls="controls"></video>
 
 第二个例子由Neverland体验者构建(第一次编程)，很类似etoys教程里，绘制物体运动轨迹的例子。
 
-<video width="300px" src="http://scratch3-files.just4fun.site/toio_etoys.mp4" controls="controls"></video>
+<video width="300px" src="/img/toio_etoys.mp4" controls="controls"></video>
 
 
 

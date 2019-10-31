@@ -5,7 +5,7 @@ date: 2019-06-25
 tags: ["programming"]
 ---
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/room_7d2361f2.png" />
+<img class="img-responsive" src="/img/room_7d2361f2.png" />
 
 >  就象一个躺在黑房间里但是醒在床上的人，忽然看见窗帘上透进一道光线，心里知道只要拉开窗帘，眼前就会展开一片晨光朗照的原野似的。 -- 毛姆 《刀锋》
 
@@ -73,17 +73,17 @@ CodeLab构建了[CodeLab Adapter](https://adapter.codelab.club/)这个通用工�
 # 爱迪生密室
 目前在旧金山，便存在一个与上述描述相似的密室系统:[爱迪生密室](https://palace-games.com/the-edison-escape-room/)
 
-![](http://wwj-fig-bed.just4fun.site/room_1af9bf0f.png)
+![](/img/room_1af9bf0f.png)
 
 它在全球的密室中的排名第六！
 
-<img width=500 src="http://wwj-fig-bed.just4fun.site/room_f0b39422.png" />
+<img width=500 src="/img/room_f0b39422.png" />
 
 这是一个充满灯泡、传感器和沉浸式体验的密室。
 
 密室由Raspberry Pi驱动，包含有数百个传感器和执行器
 
-<img width=500 src="http://wwj-fig-bed.just4fun.site/room_df72885f.png" />
+<img width=500 src="/img/room_df72885f.png" />
 
 数百个传感器和执行器之间在进行高速通信，他们之间的通信由[Banyan](https://github.com/MrYsLab/python_banyan)驱动，[Banyan](https://github.com/MrYsLab/python_banyan)是一个为物理计算设计的消息系统，我写过一篇关于它的架构设计的文章：[Python Banyan学习笔记之架构设计](https://blog.just4fun.site/Python-Banyan-note-Architecture.html)。 这个项目在架构上和[CodeLab Adapter](https://adapter.codelab.club/)有许多相似之处，都基于ZeroMQ，将消息视为一等公民。此外，我也是这个项目的贡献者之一。
 

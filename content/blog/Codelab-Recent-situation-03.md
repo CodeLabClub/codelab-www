@@ -6,7 +6,7 @@ date: "2019-05-19"
 
 >  A computer is an instrument whose music is ideas -- Alan Kay
 
-<img class="img-responsive" src="http://wwj-tmp-video.just4fun.site/codelab.jpg" />
+<img class="img-responsive" src="/img/codelab.jpg" />
 
 这是[CodeLab](https://blog.just4fun.site/about-codelab-club.html)近况的第3篇，前2篇分别是:
 
@@ -22,14 +22,14 @@ date: "2019-05-19"
 # CodeLab Neverland
 首先提及的，是Neverland开张了。
 
-![](http://wwj-fig-bed.just4fun.site/codelab_87d608c1.png)
+![](/img/codelab_87d608c1.png)
 
-![](http://wwj-tmp-video.just4fun.site/codelab.jpg)
+![](/img/codelab.jpg)
 
 ### 亮灯仪式
 2019.05.17 14:30，Neverland举行亮灯仪式。
 
-![](http://wwj-tmp-video.just4fun.site/codelab_startup.jpg)
+![](/img/codelab_startup.jpg)
 
 仪式由CodeLab的工具链驱动，我们在[Turn the world into your playground](https://blog.just4fun.site/Turn-the-world-into-your-playground.html)曾提到:
 
@@ -41,7 +41,7 @@ CodeLab的演讲PPT、Neverland的亮灯仪式，都由`CodeLab`构建的工具�
 
 驱动亮灯仪式的源代码如图所示:
 
-![](http://wwj-fig-bed.just4fun.site/codelab_neverland_efa5e665.png)
+![](/img/codelab_neverland_efa5e665.png)
 
 程序的逻辑由两部分构成: 
 
@@ -263,7 +263,7 @@ Scratch官方社区是迄今为止最成功的编程社区之一。一个社区�
 
 在[bilikyar](https://github.com/bilikyar)的安利下，他们公司的产品部负责人[@李恒](https://github.com/LIHENGs)也成为CodeLab的志愿者，为我们重新设计了UI:
 
-<img src="http://wwj-fig-bed.just4fun.site/adapter_45dbf788.png" width=400 />
+<img src="/img/adapter_45dbf788.png" width=400 />
 
 ### [wangshub](https://github.com/wangshub)
 [wangshub](https://github.com/wangshub)是CodeLab Adapter [extension_leju_pando.py](https://github.com/Scratch3Lab/codelab_adapter_extensions/blob/master/extension_leju_pando.py)插件的贡献者和维护者。该插件可以将[Leju Pando机器人](https://thinkhard.tech/2019/04/17/codelab-pando-tutorial/)接入到CodeLab Adapter中。
@@ -272,7 +272,7 @@ Scratch官方社区是迄今为止最成功的编程社区之一。一个社区�
 
 目前[wangshub](https://github.com/wangshub)正在将CodeLab Adapter的GUI迁往新的设计上（基于pyqt5），已经基本完成界面构建:
 
-<img src="http://wwj-fig-bed.just4fun.site/pyqt_adapter_f9251223.png" width=500 />
+<img src="/img/pyqt_adapter_f9251223.png" width=500 />
 
 在这次大升级中，[wangshub](https://github.com/wangshub)将基于[fbs](https://github.com/mherrmann/fbs)来整体优化软件包的安装、签名和更新等问题。
 
@@ -292,7 +292,7 @@ CodeLab之后除了对外提供基础工具，也希望能对外提供基础服�
 *  codelab-adapter iot extension
 *  IoT server: iot.codelab.club
 
-![](http://wwj-fig-bed.just4fun.site/scratch-iot_072d531a.png)
+![](/img/scratch-iot_072d531a.png)
 
 更多细节，参考我们近期的文章:
 
@@ -301,7 +301,7 @@ CodeLab之后除了对外提供基础工具，也希望能对外提供基础服�
 *  [基于树莓派的积木化编程解决方案](https://blog.just4fun.site/codelab-rpi-mqtt-solution.html)
 
 #### 虫洞(wormhole)
-![](http://wwj-fig-bed.just4fun.site/wormhole_4fcface5.png)
+![](/img/wormhole_4fcface5.png)
 
 设想这样一种场景，一群用户聚集在一个线下空间里，线下空间可能是一个线下俱乐部(如[coderdojo](https://coderdojo.com/))、一个线下培训机构、一个班级、以及我们的CodeLab Neverland。他们接入同一个局域网中。学习者们身处同样的物理空间，我们是否考虑将他们所处的虚拟空间和创作平台中也连接在一起，支持更多的协作和交互。
 
@@ -454,12 +454,12 @@ The flagship clubhouse的志愿者耐心地回答了我们的所有疑惑。
 
 ### iWise论坛
 
-![](http://wwj-fig-bed.just4fun.site/iwise_bret_mindstorms_62844c2b.png)
+![](/img/iwise_bret_mindstorms_62844c2b.png)
 
 
 2019年4月20号，参加iWise Forum 第11期活动，CodeLab带来的分享话题是: [Turn the world into your playground](https://blog.just4fun.site/Turn-the-world-into-your-playground.html)
 
-![](http://wwj-fig-bed.just4fun.site/iwise_d7db51a9.png)
+![](/img/iwise_d7db51a9.png)
 
 
 活动详情参考[这儿](https://blog.just4fun.site/Turn-the-world-into-your-playground.html)。

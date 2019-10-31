@@ -18,7 +18,7 @@ theme = "airspace-hugo"
   [[menu.header]]
   weight = 2
   name = "Scratch3.0"
-  url = "https://scratch3.codelab.club"
+  url = "https://scratch3v2.codelab.club"
   # [[menu.header]]
   #   weight = 5
   #   name = "Contact"
@@ -34,8 +34,16 @@ theme = "airspace-hugo"
     url = "/about"
   [[menu.footer]]
     weight = 2
-    name = "codelab-adapter"
+    name = "CodeLab Adapter"
     url = "https://adapterv2.codelab.club/"
+  # [[menu.footer]]
+  #   weight = 3
+  #   name = "How it works"
+  #   url = "#"
+  [[menu.footer]]
+    weight = 3
+    name = "Demo"
+    url = "https://adapter.codelab.club/user_guide/gallery/"
   # [[menu.footer]]
   #   weight = 3
   #   name = "How it works"

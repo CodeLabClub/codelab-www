@@ -5,7 +5,7 @@ date: 2019-06-25
 tags: ["programming"]
 ---
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/game_code_d0e83807.png" />
+<img class="img-responsive" src="/img/game_code_d0e83807.png" />
 
 >  你把一粒石子投入池中，宇宙就不完全是它先前那样子。 -- 毛姆《刀锋》
 

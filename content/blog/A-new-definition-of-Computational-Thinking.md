@@ -10,7 +10,7 @@ tags: ["programming"]
 , 翻译: 廖曼江(CodeLab志愿者)
 </div>
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/thinking_3a9998fe.png" />
+<img class="img-responsive" src="/img/thinking_3a9998fe.png" />
 
 
 David Benedetto为CSTA撰写了一篇关于计算思维的博客，让我对计算思维有了新的认识（感谢Shuchi Grover，他的推文吸引了我）。

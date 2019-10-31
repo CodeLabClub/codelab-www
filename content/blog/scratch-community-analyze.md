@@ -7,7 +7,7 @@ date: 2018-07-26T13:32:00+08:00
 <div class="alert alert-success">原文地址：<a href="https://blog.just4fun.site/scratch-community-analyze.html">scratch社区一览</a></div>
 
 
-<img alt="主页" class="img-responsive" src="http://wwj-fig-bed.just4fun.site/scratch_c_4915ab49.png" />
+<img alt="主页" class="img-responsive" src="/img/scratch_c_4915ab49.png" />
 
 >  Imagine, Program, Share
 
@@ -64,7 +64,7 @@ scratch社区的繁荣离不开[scratch社区准则](https://scratch.mit.edu/com
 ### [社区主页](https://scratch.mit.edu/)
 scratch[社区主页](https://scratch.mit.edu/)如图所示：
 
-<img alt="主页" src="http://wwj-fig-bed.just4fun.site/scratch_c_4915ab49.png" width=600 />
+<img alt="主页" src="/img/scratch_c_4915ab49.png" width=600 />
 
 以下是我登陆之后，所看到的内容:
 
@@ -95,18 +95,18 @@ scratch[社区主页](https://scratch.mit.edu/)如图所示：
 
 [发现页](https://scratch.mit.edu/explore/projects/all)鼓励你去发现有趣的[项目](https://scratch.mit.edu/explore/projects/all/)
 
-<img alt="projects" src="http://wwj-fig-bed.just4fun.site/scratch_c_c4943467.png" width=600 />
+<img alt="projects" src="/img/scratch_c_c4943467.png" width=600 />
 
 
 我们之前用Python写了个[爬虫](https://zh.wikipedia.org/zh-hans/%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2)，爬取了[项目](https://scratch.mit.edu/explore/projects/all/)每个标签下前9000个最流行的项目，共计5万余个。之后使用python对这些数据做了简单的分析和数据可视化，发现不少有趣的东西，这部分之后有机会单独写一篇文章来讨论
 
 发现页也鼓励你去寻找有趣的[工作室](https://scratch.mit.edu/explore/studios/all/)
 
-<img alt="studio" src="http://wwj-fig-bed.just4fun.site/scratch_c_1d42cc6d.png " width=600 />
+<img alt="studio" src="/img/scratch_c_1d42cc6d.png " width=600 />
 
 [工作室](https://en.scratch-wiki.info/wiki/Studio)可以将多个项目汇集在一起(可以视为一个收藏夹)。在Scratch 2.0之前，被称为galleries。大多数工作室都有一个特定的项目主题，诸如[Scratch Day Celebrations!](https://scratch.mit.edu/studios/5047558/)汇集了Scratch Day庆祝活动相关的项目；而[Earth Day 2018](https://scratch.mit.edu/studios/4982024/)汇集了2018地球日相关的项目:
 
-<img alt="studio" src="http://wwj-fig-bed.just4fun.site/scratch_studio_21efe52b.png" width=600 />
+<img alt="studio" src="/img/scratch_studio_21efe52b.png" width=600 />
 
 <!--
 主题
@@ -151,7 +151,7 @@ scratch社区不愧是曾拖垮MIT学校内网的项目 :）
 
 
 ### 月活动趋势
-<img alt="studio" src="http://wwj-fig-bed.just4fun.site/scratch_data_08b8c476.png" width=800 />
+<img alt="studio" src="/img/scratch_data_08b8c476.png" width=800 />
 
 从图中我们可以看出，2018年5月份：
 
@@ -167,7 +167,7 @@ scratch社区不愧是曾拖垮MIT学校内网的项目 :）
 
 
 ### 月活跃用户
-<img alt="studio" src="http://wwj-fig-bed.just4fun.site/scratch_data_a256ba33.png" width=800 />
+<img alt="studio" src="/img/scratch_data_a256ba33.png" width=800 />
 
 从图中发现有个现象很有趣，每年的5-8月份，社区活跃度开始下降，8月份之后才开始回升
 
@@ -176,7 +176,7 @@ scratch社区不愧是曾拖垮MIT学校内网的项目 :）
 这个现象可能给美国面向K12的编程教育公司的启示是:  暑假期间不宜做活动和宣传，用户参与度不高
 
 ### 用户年龄分布
-<img alt="studio" src="http://wwj-fig-bed.just4fun.site/scratch_data_997edfe4.png" width=600 />
+<img alt="studio" src="/img/scratch_data_997edfe4.png" width=600 />
 
 <!--写个server 查询区间人数-->
 
@@ -197,7 +197,7 @@ scratch社区不愧是曾拖垮MIT学校内网的项目 :）
 
 
 ### 用户空间分布
-<img alt="studio" src="http://wwj-fig-bed.just4fun.site/scratch_data_014a18d3.png" width=600 />
+<img alt="studio" src="/img/scratch_data_014a18d3.png" width=600 />
 
 从图中我们可以看出，社区用户主体在美国(46.14%),接近总体用户的一半。
 
@@ -211,7 +211,7 @@ scratch社区不愧是曾拖垮MIT学校内网的项目 :）
 
 
 ### 每月项目分享情况
-<img alt="studio" src="http://wwj-fig-bed.just4fun.site/scratch_data_b58c596d.png" width=800 />
+<img alt="studio" src="/img/scratch_data_b58c596d.png" width=800 />
 
 
 从图中我们可以看出，新增的改编(Remix)项目 略多于 新增白板项目 的1/3，社区成员积极地利用社区已有项目来开展自己的工作，我觉得这是个很好的现象。
@@ -230,7 +230,7 @@ scratch社区不愧是曾拖垮MIT学校内网的项目 :）
 我们之后会构建一个面向国内用户的scratch社区，会在那儿实践这些想法
 
 ### 每月评论
-<img alt="studio" src="http://wwj-fig-bed.just4fun.site/scratch_data_aba5d56e.png" width=800 />
+<img alt="studio" src="/img/scratch_data_aba5d56e.png" width=800 />
 
 从数据我们可以看出，社区成员之间的交流十分广泛，远不止限于讨论项目，而是深度参与其中。
 

@@ -5,7 +5,7 @@ date: 2019-08-26
 tags: ["programming"]
 ---
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/water_727df488.png" />
+<img class="img-responsive" src="/img/water_727df488.png" />
 
 >  Water as a first principle -- Thales
 
@@ -156,9 +156,9 @@ v2 默认使用 web UI。
 
 此前有过两个版本的 UI，分别基于 Tkinter 和 PyQt5，如下图所示。
 
-<img width=250 src="http://wwj-fig-bed.just4fun.site/tui_064332a6.png"/>
+<img width=250 src="/img/tui_064332a6.png"/>
 
-<img width=250 src="http://wwj-fig-bed.just4fun.site/qtui_7f67c7f8.png"/>
+<img width=250 src="/img/qtui_7f67c7f8.png"/>
 
 Tkinter 的组件不大好看。Qt 是目前最强大的 UI 库，但存在一些跨平台的不一致性，诸如有用户反馈在某些 windows 版本下字体排版很奇怪，此外 Mac 下 PyQt5 的线程会自动休眠。只要投入足够多的时间，当然可以解决这些兼容性问题，但似乎不大划算。
 
@@ -166,7 +166,7 @@ web 技术的跨平台能力是最好的，而且基于 html 和 css 的布局�
 
 由于我们已经将内部功能服务化，所以所有的功能都可以在 Web UI 上使用。开发者可以自行构建新的 UI。以下是极简版的 demo UI， 只用到了 HTML：
 
-<img width=250 src="http://wwj-fig-bed.just4fun.site/webui_0cdd2618.png" />
+<img width=250 src="/img/webui_0cdd2618.png" />
 
 #### 配套的调试工具
 
@@ -182,7 +182,7 @@ v2 携带了一组调试工具，方便开发者用于构建新的[CodeLab Adapt
 - codelab-message-monitor
 - codelab-message-trigger
 
-<img width=600 src="http://wwj-fig-bed.just4fun.site/shelldebug_3ca7313d.png"/>
+<img width=600 src="/img/shelldebug_3ca7313d.png"/>
 
 此外我们还提供了 MQTT 调试工具: [codelab_adapter_mqtt_client](https://github.com/Scratch3Lab/codelab_adapter_mqtt_client).
 

@@ -66,6 +66,31 @@ themes/airspace-hugo/layouts/_default/list.html 模版
     *  about
 
 
+# 提取图片到本地
+自托管图片，避免云故障
+
+ack -ho "http://wwj-fig-bed.just4fun.site/.*.png" > /tmp/codelab_blog_png_list.txt
+
+取得图片列表保存下来
+
+```
+cd img
+```
+
+python3
+
+```python
+import subprocess
+with open("/tmp/codelab_blog_png_list.txt") as png_url_list:
+    urls = png_url_list.readlines()
+for url in urls:
+    cmd = f"wget {url}"
+    # print(cmd)
+    subprocess.call(cmd,shell=True)
+```
+
+
+
 <!--
 keyword:
 

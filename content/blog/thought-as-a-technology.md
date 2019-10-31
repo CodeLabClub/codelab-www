@@ -5,7 +5,7 @@ date: 2019-07-22
 tags: ["programming"]
 ---
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/smalltalk_11b30625.png" />
+<img class="img-responsive" src="/img/smalltalk_11b30625.png" />
 
 # 原文
 
@@ -23,7 +23,7 @@ tags: ["programming"]
 
 11岁之前，我只用过命令行界面与计算机沟通，例如在 Apple II、IBM PC 和 Commodore 64这些电脑里：
 
-<img width=500 src="http://cognitivemedium.com/tat/assets/C64.gif"/>
+<img width=500 src="/img/C64.gif"/>
 
 
 做图形相关的工作很复杂。在Commodore 64 计算机上，我有时会制作游戏，使用方格纸绘制游戏角色中的像素，然后将它们转换为数值以便输入到计算机中。这是个艰苦的精细活儿。
@@ -57,16 +57,16 @@ MacPaint 将我与我的绘图直接联系在一起，就像使用铅笔或颜�
 例如，毕加索等立体主义艺术家发展了在一幅画中使用多个视点的技巧。一旦你学会了立体派艺术，它可以让你更清楚地了解所展示的东西的结构：
 
 
-<img width=500 src="http://cognitivemedium.com/tat/assets/Picasso1910.jpg"/>
+<img width=500 src="/img/Picasso1910.jpg"/>
 
 另一个例子是[Doc Edgerton](https://en.wikipedia.org/wiki/Harold_Eugene_Edgerton)的工作，他是高速摄影的先驱，他的照片揭示了世界上以前未被预料到的结构。如果你研究这样的照片，你就会对日常现象建立起新的心理模型，如此一来你的视觉思维范围便扩大了：
 
-<img width=600 src="http://cognitivemedium.com/tat/assets/Edgerton1964.jpg"/>
+<img width=600 src="/img/Edgerton1964.jpg"/>
 
 
 另一类例子来自许多制图师，他们开发了描绘地图的新方法。例如，考虑一下由 Harry Beck 绘制的 1933 年伦敦地铁地图。在 20 世纪 30 年代早期，Beck 注意到官方地铁地图过于复杂，读者无法理解。像大多数地图上常用的那样，他放弃了确切的地理保真度来简化地图。他集中精力展示了车站网络的拓扑结构：
 
-<img width=600 src="http://cognitivemedium.com/tat/assets/Underground1933_web.jpg"/>
+<img width=600 src="/img/Underground1933_web.jpg"/>
 
 
 诸如此类的图像既不自然，也不显而易见。没有毕加索，Edgerton，Beck 和许许多多其他先驱者开发出来的认知技术，没有人会拥有这些视觉思维。当然，只有一小部分人真正内化了这些视觉思维方式。但一旦技术被发明，我们大多数人都可以学习它们，并将其用于思考。
@@ -75,7 +75,7 @@ MacPaint 将我与我的绘图直接联系在一起，就像使用铅笔或颜�
 
 与语言、地图类似，计算机界面也是一种认知技术。要掌握它，需要内化界面中的对象和操作; 使它们成为认知元素。一个充满想象力的界面设计师可以发明全新的认知元素：
 
-<img width=400 src="http://cognitivemedium.com/tat/assets/possible_vs_extant_elements.png"/>
+<img width=400 src="/img/possible_vs_extant_elements.png"/>
 
 
 我相信这就是 MacPaint 令 11 岁的我大为兴奋的原因：它扩大了我的思考范围。在此，它扩大了我所能创造的视觉图像的范围。一般而言，界面拥有转变能力的原因在于它引入了新的认知元素，从而实现新的思维模式。具体而言，这样的界面使得从前难以获得的深刻洞见变得容易获得。甚至，它将使你的探索（或其他形式的创造力）超越所有前人。 艾伦凯曾问道“计算机承载创意的能力究竟如何？”同样地，我们可能会问：“计算机的承载发现的能力究竟如何？”
@@ -86,7 +86,7 @@ MacPaint 将我与我的绘图直接联系在一起，就像使用铅笔或颜�
 
 作为深入了解这个问题的一种方式，我将首先展示一个原型界面。它是探索一维运动的原型，即粒子在线上的运动。为了避免让读者失望，我得声明这个原型肯定不像 MacPaint 那样具有变革性！它很粗糙，是一个想法的最初草图。但是它说明了两种有用的启发式方法，可以帮助我们发明新的认知元素。
 
-<video src="http://wwj-tmp-video2.just4fun.site/Energy%20surface%20prototype-YFexXV2D5Ac.mp4"  controls="controls"></video>
+<video src="/img/Energy%20surface%20prototype-YFexXV2D5Ac.mp4"  controls="controls"></video>
 
 ### 启发式 1：将界面中隐藏的表征具像化
 
@@ -118,7 +118,7 @@ MacPaint 将我与我的绘图直接联系在一起，就像使用铅笔或颜�
 
 我认为这种表征的良好来源是我称之为最小范例的东西。专家经常拥有一系列具体的例子，他们用这些例子来推理。例如，假设数学家正在研究高维几何或拓扑中的某些问题。他们可能在推理许多空间维度 -- 甚至可能是无限多的维度！然而他们粗糙的工作笔记上可能画着2维和3维的物体草图。这些草图帮助数学家思考更高维度的对象。例如，数学家 Vitali Milman [喜欢](http://mathoverflow.net/posts/26010/revisions)用草图显示高维凸包，这些草图显示了一种“尖尖”的物体，如下所示：
 
-<img width=300 src="http://cognitivemedium.com/tat/assets/Milman.png">
+<img width=300 src="/img/Milman.png">
 
 这看起来很奇怪，因为凸包是各处都向外凸出的物体，就像凸透镜一样。他们肯定不是尖尖的、有着向内弯曲的曲线。但 Milman 使用这种表征来提醒自己一个关于高维凸包极其重要但并非直观的事实：几乎所有的体积都集中在它们表面附近。在2维或3维中，这个想法更准确地表现为如上所示的尖刺状物体，而不是2维或3维凸包，这就是为什么 Milman 认为它是一种对思想有用的辅助。
 
@@ -162,23 +162,23 @@ MacPaint 将我与我的绘图直接联系在一起，就像使用铅笔或颜�
 
 一个常见的非正式的拓展模型是我们可以称之为认知外包的模型：我们选择一个问题，将其发送到我们的设备，设备解决了这个问题（也许以一种用户不理解的方式）， 接着设备发回一个解答：
 
-<img width=500 src="http://cognitivemedium.com/tat/assets/outsourcing_model.svg"/>
+<img width=500 src="/img/outsourcing_model.svg"/>
 
 例如，如果我想知道距离月球的距离，我会将问题发送给 Google，Google会回复一个答案：
 
-<img width=500 src="http://cognitivemedium.com/tat/assets/outsourcing_question.png"/>
+<img width=500 src="/img/outsourcing_question.png"/>
 
 
 或者我可以向谷歌地图询问从我的办公室到伯克利的路线：
 
-<img width=600 src="http://cognitivemedium.com/tat/assets/outsourcing_map.png"/>
+<img width=600 src="/img/outsourcing_map.png"/>
 
 
 许多人明里暗里使用这种认知外包模型来考虑如何`增强`人的认知。例如，它通常用于新闻报道。我相信，它也是程序员思考`增强`这件事的常用方法。
 
 在本文里，我们已经看到了一种不同的增强思维的方式。它不只是解决那些用我们已经理解的术语来表达的问题，它的目标是改变我们可以思考的想法：
 
-<img width=300 src="http://cognitivemedium.com/tat/assets/possible_vs_extant_elements.png"/>
+<img width=300 src="/img/possible_vs_extant_elements.png"/>
 
 这项工作面临的一个挑战是结果难以想象。我们可以发明什么新的认知元素？它们将如何影响人类的思维方式？直到他们被发明出来我们才能知道。
 

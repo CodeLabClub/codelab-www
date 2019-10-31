@@ -7,7 +7,7 @@ date: 2018-10-7T20:00:00+08:00
 <div class="alert alert-success">原文地址：<a href="https://blog.just4fun.site/interest-based-learning.html">基于兴趣的学习面临的诘难</a></div>
 
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/rye_b5257654.png" />
+<img class="img-responsive" src="/img/rye_b5257654.png" />
 
 
 我们在公众号的第一篇文章:[教育游戏化](https://mp.weixin.qq.com/s?__biz=MzU4NzY2OTk4NA==&mid=2247483652&idx=1&sn=23c76eb5a05ab9356a7bf6a2a1b8c21a&chksm=fde9c98bca9e409d70a31066b7380facad0a5506b2697c63de5a9938d8be489320db9814a5e2#rd)中抛出了一个对「基于兴趣的学习」的典型诘难:

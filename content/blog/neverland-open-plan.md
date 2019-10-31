@@ -4,7 +4,7 @@ author: 种瓜
 date: 2019-05-27
 ---
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/open_neverland_9fa408b1.png" />
+<img class="img-responsive" src="/img/open_neverland_9fa408b1.png" />
 
 # CodeLab Neverland预约报名
 >  A computer is an instrument whose music is ideas -- Alan Kay

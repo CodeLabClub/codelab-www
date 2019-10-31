@@ -10,7 +10,7 @@ tags: ["programming"]
 , 作者: Alan Kay, 翻译: 杨柳青(CodeLab志愿者)
 </div>
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/child_learn_60c65659.png" />
+<img class="img-responsive" src="/img/child_learn_60c65659.png" />
 
 
 

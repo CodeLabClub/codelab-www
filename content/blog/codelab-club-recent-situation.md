@@ -4,7 +4,7 @@ author: 种瓜
 date: 2018-12-18T19:44:00+08:00
 ---
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/codelaboffice_cfaf69cc.png" />
+<img class="img-responsive" src="/img/codelaboffice_cfaf69cc.png" />
 
 
 [马克·吐温](https://zh.wikipedia.org/zh-cn/%E9%A9%AC%E5%85%8B%C2%B7%E5%90%90%E6%B8%A9)在给朋友的信中写道:
@@ -47,7 +47,7 @@ neverland设计方案的确定，很能体现codelab.club的协作模式。我�
 
 这是neverland的第一个概念方案:
 
-<img src="http://wwj-fig-bed.just4fun.site/neverlandoffice_2d551c07.png" width=500 />
+<img src="/img/neverlandoffice_2d551c07.png" width=500 />
 
 codelab的志愿者们对此并不满意。
 
@@ -67,7 +67,7 @@ codelab的志愿者们对此并不满意。
 
 这些建议成为neverland第二版草案的空间规划策略:
 
-<img src="http://wwj-fig-bed.just4fun.site/codelaboffice_217b9f9e.png" width=600 />
+<img src="/img/codelaboffice_217b9f9e.png" width=600 />
 
 在这个版本中，保留了@陈海权提出的阶梯概念，并扩展了它的功能。@陈海权展示的汕头图书馆的设计令人印象深刻。
 
@@ -81,13 +81,13 @@ codelab的志愿者们对此并不满意。
 
 这是下一版的草图:
 
-<img src="http://wwj-fig-bed.just4fun.site/codelaboffice_61b64c6f.png" width=600 />
+<img src="/img/codelaboffice_61b64c6f.png" width=600 />
 
 以及最终的渲染图:
 
-<img src="http://wwj-fig-bed.just4fun.site/codelaboffice_88dea9b5.png" width=600 />
+<img src="/img/codelaboffice_88dea9b5.png" width=600 />
 
-<img src="http://wwj-fig-bed.just4fun.site/codelaboffice_cfaf69cc.png" width=600 />
+<img src="/img/codelaboffice_cfaf69cc.png" width=600 />
 
 
 其中电视两边放置可以书写的不锈钢板，它同时又充当镜子，来放大空间。@陈爱华最初提议在空间里放置可以写字的玻璃板，之后@陈海权建议改为不锈钢板。
@@ -210,7 +210,7 @@ Switch颠覆了人们对游戏机的看法，Switch被看作家庭娱乐中心�
 
 我们鼓励公司与开发者们加入这个生态，codelab-adapter甚至允许你将AI的能力赋予给十几年前生产的玩具
 
-<video width="300px" src="http://wwj-fig-bed.just4fun.site/1539392124109888.mp4" controls="controls"></video>
+<video width="300px" src="/img/1539392124109888.mp4" controls="controls"></video>
 
 理论上，我们能将绝大多数的玩具都积木化，并接入进来，包括你童年的那些玩具。正是这点引起了很多公司的兴趣。我们在后边将谈论codelab.club与企业的合作框架。
 

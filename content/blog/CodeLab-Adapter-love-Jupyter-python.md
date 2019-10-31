@@ -6,7 +6,7 @@ tags: ["programming"]
 ---
 
 
-<img class="img-responsive" src="http://wwj-fig-bed.just4fun.site/adapter_jupyter_05932c59.png" />
+<img class="img-responsive" src="/img/adapter_jupyter_05932c59.png" />
 
 # 前言
 上周与@曾老师一起在杭州湾参加为期四天的AI夏令营，做一些技术支持和辅导的工作，体验颇似黑客马拉松。
@@ -125,7 +125,7 @@ for i in range(3):
     display(Javascript(f"console.log('{i}') //websocket send/recv message <-> CodeLab Adapter 2.0")) 
 ```
 
-![](http://wwj-fig-bed.just4fun.site/notebook_js_python_5dd7081e.png)
+![](/img/notebook_js_python_5dd7081e.png)
 
 
 <!--
