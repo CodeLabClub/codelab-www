@@ -4,7 +4,7 @@ author: 种瓜
 date: 2019-09-10
 ---
 
-<img class="img-responsive" src="https://adapter.codelab.club/img/toys_party.jpeg" />
+<img class="img-responsive" src="/img/toys_party.jpeg" />
 
 > 好的软件作品，往往源自于开发者的个人需要 -- 《大教堂与集市》
 

@@ -420,7 +420,7 @@ codelab 启动仪式
 # 合作与交流
 
 ### MIT Media Lab
-![](http://wwj-tmp-video2.just4fun.site/codelab_mit.jpg)
+![](/img/codelab_mit.jpg)
 
 2019.3.25，从北京飞往洛杉矶，参加Open edX 2019年会。去美国之前给Scratch之父[@Mitchel Resnick](https://en.wikipedia.org/wiki/Mitchel_Resnick)发了个邮件, 提到我们计划去MIT Media Lab拜访， 在邮件里分享了CodeLab近期做的事情。[@Mitchel Resnick](https://en.wikipedia.org/wiki/Mitchel_Resnick)回复说:
 
@@ -450,7 +450,7 @@ The flagship clubhouse的志愿者耐心地回答了我们的所有疑惑。
 
 我们对clubhouse做了必要的了解，从中学到的东西之后可能用于运营Neverland。
 
-![](http://wwj-tmp-video2.just4fun.site/codelab_clubhouse.jpg)
+![](/img/codelab_clubhouse.jpg)
 
 ### iWise论坛
 

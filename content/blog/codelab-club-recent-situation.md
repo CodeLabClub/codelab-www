@@ -1,5 +1,5 @@
 ---
-title: "codelab.club近况"
+title: "CodeLab近况"
 author: 种瓜
 date: 2018-12-18T19:44:00+08:00
 ---
@@ -14,14 +14,14 @@ date: 2018-12-18T19:44:00+08:00
 [codelab.club](https://codelab.club/)近期忙于构建[neverland](https://blog.just4fun.site/about-codelab-club.html#neverland)、制定与外部的合作框架、扩大codelab-adapter的连接范围、完善基础设施以及探索什么是未来的创造工具。
 
 
-这是个愉快的旅程，途中有许多有趣的收获与发现，我们希望抽些时间，做一番梳理，让关心codelab.club的人能了解到我们的近况与进展。我们也将汇报近期的困惑与阻碍，希望能得到热心之人的帮助。
+这是个愉快的旅程，途中有许多有趣的收获与发现，我们希望抽些时间，做一番梳理，让关心CodeLab的人能了解到我们的近况与进展。我们也将汇报近期的困惑与阻碍，希望能得到热心之人的帮助。
 
 <!--more-->
 
 # [neverland](https://blog.just4fun.site/about-codelab-club.html#neverland)
-[neverland](https://blog.just4fun.site/about-codelab-club.html#neverland)是[codelab.club](https://codelab.club/)的办公室与活动空间。此前在[关于codelab.club](https://blog.just4fun.site/about-codelab-club.html#neverland)中对它做过介绍。
+[neverland](https://blog.just4fun.site/about-codelab-club.html#neverland)是[CodeLab](https://CodeLab/)的办公室与活动空间。此前在[关于CodeLab](https://blog.just4fun.site/about-codelab-club.html#neverland)中对它做过介绍。
 
->  codelab.club的办公室是开放的, 你可以在任何时间来找我们玩，
+>  CodeLab的办公室是开放的, 你可以在任何时间来找我们玩，
 
 neverland名字来自《小飞侠彼得·潘》,是故事中的一座海岛。在永无乡里，人们永远长不大。
 
@@ -29,7 +29,7 @@ neverland名字来自《小飞侠彼得·潘》,是故事中的一座海岛。�
 
 目前我们正在将neverland付诸实践。设计方案已定稿，目前正在装修中。
 
-neverland的整体规划和设计元素由codelab.club的志愿者共同谈论确定，之后由独立设计师@CJ为我们完成设计方案。
+neverland的整体规划和设计元素由CodeLab的志愿者共同谈论确定，之后由独立设计师@CJ为我们完成设计方案。
 
 neverland的空间规划经过一次大的调整，起初，我们倾向于将空间划分为办公区域和活动区域。后来经由商议，确定去除任何的分割。让活动参与者与codelab的工作人员紧密接触，让用户参与到产品的开发之中，这是《终生幼儿园》给我们的启发。
 
@@ -43,7 +43,7 @@ neverland是我们的第一个里程碑，它远不只是一个办公室,
 
 我们在其中生活、冒险与创造，也愿意分享这其中的点点滴滴，之后可能制作为课程、故事短片、情景剧或是直播。
 
-neverland设计方案的确定，很能体现codelab.club的协作模式。我们在此梳理和再现我们的协作过程。
+neverland设计方案的确定，很能体现CodeLab的协作模式。我们在此梳理和再现我们的协作过程。
 
 这是neverland的第一个概念方案:
 
@@ -77,7 +77,7 @@ codelab的志愿者们对此并不满意。
 
 @陈海权提议充分利用阶梯的空间，将柜子置于阶梯之后，一直往上延伸，于是天花就成为必要。天花方案最终采用了@罗云的提议，采用简约整洁的风格，保持风格的统一。
 
-既已决定采用日式风格，@罗云进一步建议说室内设施应该与环境融合，不使用时不应突兀出来，同时他提议取消形象区，彻底打通整个空间，贯彻`开放`的理念，但又希望能展示codelab.club的形象。之前为我们出方案的设计公司无法给出好的解决方案，于是我们另请了独立设计师@CJ来为我们重新设计。
+既已决定采用日式风格，@罗云进一步建议说室内设施应该与环境融合，不使用时不应突兀出来，同时他提议取消形象区，彻底打通整个空间，贯彻`开放`的理念，但又希望能展示CodeLab的形象。之前为我们出方案的设计公司无法给出好的解决方案，于是我们另请了独立设计师@CJ来为我们重新设计。
 
 这是下一版的草图:
 

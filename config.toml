@@ -1,4 +1,4 @@
-title = "codelab.club"
+title = "CodeLab"
 baseURL = "https://www.codelab.club/"
 languageCode = "zh-cn"
 theme = "airspace-hugo"
@@ -17,8 +17,8 @@ theme = "airspace-hugo"
   # 用于列出都有什么可用的服务,最好是独立的页面 scratch3 adapter python mu
   [[menu.header]]
   weight = 2
-  name = "Scratch3.0"
-  url = "https://scratch3v2.codelab.club"
+  name = "Download"
+  url = "/blog/codelab-download"
   # [[menu.header]]
   #   weight = 5
   #   name = "Contact"
@@ -55,8 +55,8 @@ theme = "airspace-hugo"
   
   [[menu.footer]]
     weight = 5
-    name = "Tools"
-    url = "/tools"
+    name = "Download"
+    url = "/blog/codelab-download"
 
   [[menu.footer]]
     weight = 6
@@ -76,7 +76,7 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "codelab.club"
+    title = "CodeLab"
     subtitle = "传递编程的乐趣，帮助孩子成为数字时代的创作者"
 
   [params.wrapper]
@@ -84,20 +84,20 @@ theme = "airspace-hugo"
     title = "关于我们"
     # 致力于做什么
     # italic = "如果你想走得快，一个人走; 如果你想走得远，一群人走"
-    paragraph = "codelab.club是一个编程教育社区，致力于传递编程的乐趣，鼓励孩子成为数字时代的创作者；帮助他们理解和参与日益数字化的世界，使用编程表达自己的想法"
+    paragraph = "CodeLab是一个非营利组织，致力于传递编程的乐趣，鼓励孩子成为数字时代的创作者；帮助他们理解和参与日益数字化的世界，使用编程表达自己的想法"
 
   # what why how
 
   # [params.blog]
   #   enable = true
   #   title = "我们准备怎么做"
-  #   subtitle = "codelab.club将构建先进的少儿编程平台、活跃的用户社区以及丰富编程内容体系；构建可编程硬件、AI体系；输出内容给家庭、学校、机构；输出内容给其他教育类公益组织，构建多种层面的用户社区"
+  #   subtitle = "CodeLab将构建先进的少儿编程平台、活跃的用户社区以及丰富编程内容体系；构建可编程硬件、AI体系；输出内容给家庭、学校、机构；输出内容给其他教育类公益组织，构建多种层面的用户社区"
 
   [params.feature]
     enable = true
     # 价值观
     title = "我们准备怎么做"
-    content = "线下方面，codelab.club将在全国主要城市，利用周末时间，组织志愿者、借用场地，开展编程活动；线上方面，codelab.club将构建先进的少儿编程平台，在积木化编程里加入开源硬件、物联网和人工智能；同时我们将构建活跃的用户社区，鼓励家长、教育者、学习者参与其中；我们也乐于与其他公益组织展开合作，让编程与更广泛的社会活动结合"
+    content = "线下方面，CodeLab将在全国主要城市，利用周末时间，组织志愿者、借用场地，开展编程活动；线上方面，CodeLab将构建先进的少儿编程平台，在积木化编程里加入开源硬件、物联网和人工智能；同时我们将构建活跃的用户社区，鼓励家长、教育者、学习者参与其中；我们也乐于与其他公益组织展开合作，让编程与更广泛的社会活动结合"
 
     #[params.feature.button]
     #  caption = "View Works"
@@ -123,7 +123,7 @@ theme = "airspace-hugo"
     [params.contact.box]
       title = "联系我们"
       # address = "North Main Street, Brooklyn Australia"
-      email = "Email: wuwenjie718@gmail.com"
+      email = "Email: wuwenjie@codelab.club"
       # phone = "Phone: +88 01672 506 744"
     #[params.contact.gmaps]
     #  enable = false

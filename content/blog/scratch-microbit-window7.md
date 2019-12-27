@@ -47,4 +47,4 @@ codelab-adapter几乎支持任何平台，无论是scratch3.0构建的还是bloc
 
 相关的合作条款我们正在构建中。
 
-期待接入codelab-adapter的公司或组织，欢迎联系我们: `wuwenjie718@gmail.com`
+期待接入codelab-adapter的公司或组织，欢迎联系我们: `wuwenjie@codelab.club`

@@ -12,11 +12,12 @@ content:
     text: >
       使年轻人可以轻松创建自己的互动媒体项目
 
-  - image: img/codeorg_logo.png
-    url: http://code.org/
-    name: Code.org
+# python.org/community/logos/
+  - image: img/python-powered-w.svg
+    url: https://www.python.org/
+    name: Python
     text: >
-      使每个学校的每个学生都有机会学习计算机科学
+      Python 是一种易于学习又功能强大的编程语言
 
   - image: img/raspberrypi_logo.png
     url: https://www.raspberrypi.org/
