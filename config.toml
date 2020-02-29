@@ -63,6 +63,11 @@ theme = "airspace-hugo"
     name = "Github"
     url = "https://github.com/scratch3lab"
 
+  [[menu.footer]]
+    weight = 7
+    name = "Insight"
+    url = "http://insight.codelab.club:18000/"
+
 # The site's parameters
 [params]
 
