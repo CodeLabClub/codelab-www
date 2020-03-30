@@ -21,17 +21,16 @@ tags: ["codelab"]
 ---
 <!-- TOC -->
 
-- [**CodeLab Wiki**](#codelab-wiki)
-    - [**Table of contents**](#table-of-contents)
-    - [**CodeLab Scratch**](#codelab-scratch)
-        - [**Scratch是什么？**](#scratch是什么)
-        - [**Scratch对于CodeLab意味着什么？**](#scratch对于codelab意味着什么)
-        - [**CodeLab Scratch又是怎么回事？**](#codelab-scratch又是怎么回事)
-    - [**CodeLab Adapter**](#codelab-adapter)
-    - [**CodeLab Neverland**](#codelab-neverland)
-    - [**CodeLab Share**](#codelab-share)
-        - [**主题1：做自己智识结构的建筑师**](#主题1做自己智识结构的建筑师)
-        - [**主题2：The Dream Machine**](#主题2the-dream-machine)
+
+  - [**CodeLab Scratch**](#codelab-scratch)
+      - [**Scratch是什么？**](#scratch是什么)
+      - [**Scratch对于CodeLab意味着什么？**](#scratch对于codelab意味着什么)
+      - [**CodeLab Scratch又是怎么回事？**](#codelab-scratch又是怎么回事)
+  - [**CodeLab Adapter**](#codelab-adapter)
+  - [**CodeLab Neverland**](#codelab-neverland)
+  - [**CodeLab Share**](#codelab-share)
+      - [**主题1：做自己智识结构的建筑师**](#主题1做自己智识结构的建筑师)
+      - [**主题2：The Dream Machine**](#主题2the-dream-machine)
 
 <!-- /TOC -->
 
