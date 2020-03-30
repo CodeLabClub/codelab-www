@@ -4,40 +4,31 @@ author: CodeLab
 date: 2020-03-30
 tags: ["codelab"]
 ---
-# **CodeLab Wiki**
----
-![image](https://raw.githubusercontent.com/CodeLabClub/codelab-www/master/static/img/adapter_party.jpeg)
 
-> <br>
+<img class="img-responsive" src="/img/adapter_party.jpeg" />
+
 > Turn the world into your playground.（把世界变为你的娱乐场。）
-> <br>
-> <br>
 
 **构建自己的可编程空间，让学习和娱乐在此发生。**
 
+<!--more-->
+
 <br>
 
-## **Table of contents**
----
-<!-- TOC -->
-
-
-  - [**CodeLab Scratch**](#codelab-scratch)
-      - [**Scratch是什么？**](#scratch是什么)
-      - [**Scratch对于CodeLab意味着什么？**](#scratch对于codelab意味着什么)
-      - [**CodeLab Scratch又是怎么回事？**](#codelab-scratch又是怎么回事)
-  - [**CodeLab Adapter**](#codelab-adapter)
-  - [**CodeLab Neverland**](#codelab-neverland)
-  - [**CodeLab Share**](#codelab-share)
-      - [**主题1：做自己智识结构的建筑师**](#主题1做自己智识结构的建筑师)
-      - [**主题2：The Dream Machine**](#主题2the-dream-machine)
-
-<!-- /TOC -->
+## **目录**
+* [CodeLab Scratch](#codelab-scratch)
+  * [Scratch是什么？](#scratch是什么)
+  * [Scratch对于CodeLab意味着什么？](#scratch对于codelab意味着什么)
+  * [CodeLab Scratch又是怎么回事？](#codelab-scratch又是怎么回事)
+* [CodeLab Adapter](#codelab-adapter)
+* [CodeLab Neverland](#codelab-neverland)
+* [CodeLab Share](#codelab-share)
+  * [主题1：做自己智识结构的建筑师](#主题1做自己智识结构的建筑师)
+  * [主题2：The Dream Machine](#主题2the-dream-machine)
 
 <br>
 
 ## **CodeLab Scratch**
----
 
 ### **Scratch是什么？**
 
@@ -45,10 +36,7 @@ tags: ["codelab"]
 
 ### **Scratch对于CodeLab意味着什么？**
 
-> <br>
-> 为什么要学编程？ 如何学习编程？计算机对个人意味着什么？
-> <br>
-> <br>
+    为什么要学编程？ 如何学习编程？计算机对个人意味着什么？
 
 针对这些问题，Scratch是一个探索的起点。
 
@@ -56,11 +44,8 @@ tags: ["codelab"]
   
 Scratch不是横空出世的，它只是当下流经我们，与我们在此刻交汇。如果拧开它背后的门踏进去，没走多远，很快就会遇上[Seymour Papert](https://www.media.mit.edu/videos/seymour-2017-01-26/)等一群人。在计算机曾经还是庞然大物、远未以个人电脑（personal computer, PC）的样貌走入千家万户时，他们就已预见到计算机在未来的普及，洞察到计算机在儿童教育中可供挖掘的深厚潜能。基于LISP编程语言，他们特意为孩子开发了LOGO语言，让孩子也能与计算机交流，如几何画图、写诗、控制虚拟或实体“小乌龟”的运动、开发小游戏与软件等等，使计算机成为帮助他们思考与学习的有力工具。作为一名数学家，面对包括儿童与成人在内、普遍的对数学的“恐惧”，Seymour Papert等人以数学为例，用思想和行动向我们展示，如何通过计算机为孩子构建Mathland，帮助他们感受数学的乐趣与力量，自由地亲近数学。对此，Alan Kay在其名为[The Center of "Why"](http://www.vpri.org/pdf/m2004002_center.pdf)的演讲中，这样讲到：
 
-> <br/>
 > This completely blew my mind! I thought this was the best idea anyone ever had for what the computer was really good for, and I immediately started to think about a computer like the Flex machine, but for children.（我姑且译为：Seymour的这一洞见使我茅塞顿开！关于计算机的真正益处，这是个前所未有的好主意。我由此立即转换方向，开始为孩子，构思像Flex这样的计算机。）
-> <br/> 
-> <br/>
-  
+
 Alan Kay以上说出的不只是自己的心声，至少也是Mitch Resnick的。曾是科技记者的他，因Seymour Papert的一次演讲而深受感召，转投Seymour门下成为他的博士生，这才有了我们现在讨论的Scratch。很遗憾，在我们知道Seymour Papert之前，他已于2016年去世。但至少还有他的一本书（他其实也还有别的书，但在此我们先聚焦在这后一本），[《因计算机而强大：计算机如何改变我们的学习与生活》（中文版）](https://book.douban.com/subject/30418117/)[（原版 Mindstorms: Children, Computers and Powerful Ideas)](http://worrydream.com/refs/Papert%20-%20Mindstorms%201st%20ed.pdf)。这本书对于CodeLab和我个人都有重要的意义，这页已写下以及将要写下的内容，都始自这本书。围绕它和Seymour Papert，我们已有很多话想说，还有更多的话尚藏在他们的思想与工作中，等待我们去发现与提炼。当前这页的焦点并不在他们身上，且当作引子，留待以后。
   
 从上文引用的Alan Kay的话，或许就能预见到，这又是以Scratch为起点可以追溯的另一条重要线索。个人电脑（PC）概念的提出、Smalltalk编程语言、以及图形交互界面（Graphical User Interface, GUI），可能最常被用来概括Alan Kay的工作，而这三者都与他对适合儿童使用的计算机的思考直接相关。最具体地体现这些工作、和Scratch渊源最近的，应该就是他们为孩子提供的[Etoys](http://www.squeakland.org/)（仍可以下载安装使用）这一媒体形式丰富的创作环境。Scratch显然深受其影响，而且最早的版本也是用相同的Squeak语言创作的。并列于Seymour Papert，Alan Kay是CodeLab的另一高频关键词。在此引用，同样只是为了说明Scratch对于CodeLab的第二层意义，即溯源的起始点之一。此目的既已达到，其余的也就先按下不表。
@@ -82,11 +67,8 @@ CodeLab Scratch也内含线上社区，鼓励大家分享自己的scratch作品�
 <br>
 
 ## **CodeLab Adapter**
----
-> <br/>
->CodeLab Adapter 是由CodeLab构建的基础项目(v2是最新版本)，致力于连接万物，无论是软件还是硬件，无论是 AI、开源硬件、现实世界的物体、还是虚拟世界的动画角色，在CodeLab Adapter的驱动下，皆可彼此互动。 
-> <br/>
-> <br/>
+
+>  CodeLab Adapter 是由CodeLab构建的基础项目(v2是最新版本)，致力于连接万物，无论是软件还是硬件，无论是 AI、开源硬件、现实世界的物体、还是虚拟世界的动画角色，在CodeLab Adapter的驱动下，皆可彼此互动。 
 
 前面讲的CodeLab对Scratch的增强，即赋予它的与更广泛事物连接通信的能力就是基于[Adapter](https://codelab-adapter-docs.codelab.club/)实现的。在此可以做一个简单的类比，我当前写下的存储在某台电脑上的文字，可以被远方不知何处的你用自己电脑中的浏览器打开，即使我们不懂其中具体的技术原理和实现方法，也知道我们之间的这种连接是通过互联网实现的。类似的，Scratch与其他事物（无论是虚拟摸不到的软件还是实实在在的硬件物体）的联通与交流是通过Adapter完成的；我们前面谈论的以Scratch以及它所能联通的事物为一个个核心节点的开放系统的建立，也是基于Adapter。如果想了解CodeLab Adapter的设计理念、目前可以接入的事物、以及使用方法，可以移步Adapter[主页](https://adapter.codelab.club/)细览。
 
@@ -98,13 +80,11 @@ CodeLab Scratch也内含线上社区，鼓励大家分享自己的scratch作品�
 
 至于Adapter与Micro:bit以及Scratch三者的关系，可以参考文杰在[CodeLab Adapter深度连接micro:bit生态](https://www.codelab.club/blog/codelab-adapter-microbit-deep-connect/)这篇文章中的论述，他在最后做了如下总结：
 
-> <br/>
 >通过深度连接micro:bit生态，我们能做什么，我想到以下三点：
 > 
 > 1. 为micro:bit社区引入CodeLab Adapter的所有能力：AI、IoT、开源硬件、脑电波、眼动仪...
 > 2. 为CodeLab Adapter引入micro:bit生态里的内容和套件
 > 3. 最后为Scratch生态引入以上两者
-> <br/>
 
 如何将一个或多个Micro:bit接入Adapter，这里有详细的[教程](https://adapter.codelab.club/extension_guide/microbit/)与[案例分享](https://adapter.codelab.club/extension_guide/microbit_radio/)。
 
@@ -137,18 +117,19 @@ Python是当下最主流的编程语言之一，也是许多孩子和成人学�
 [EIM Monitor插件使用教程](https://codelab-adapter-docs.codelab.club/extension_guide/eim_monitor/)
 
 **Yeelight彩光灯 —— 智能家居设备**
+
 在此并非是要专门介绍[Yeelight彩光灯](https://www.yeelight.com/zh_CN/product/lemon-color)，只是以其为代表，向大家展示[如何](https://codelab-adapter-docs.codelab.club/Neverland/HA/)通过Adapter与[Home Assistant](https://www.home-assistant.io/)把智能家居设备接入进来,孩子通过Scratch编程就可以对其进行控制。CodeLab办公室内如门窗、灯光等设备，目前就是这样被接入的，通过Scratch可直接控制其开与关、升与降，同时还可以作为Scratch项目的创作元素在[作品](https://codelab-adapter-docs.codelab.club/user_guide/gallery/)中调用和展示。
 
 **Raspberry Pi —— Adapter的家** 
-> <br>
+
 > Our mission is to put the power of computing and digital making into the hands of people all over the world.（我们的使命是将计算与数字创作的力量交至世界人民的手中。）
-> <br>
-> <br>
+
 这是[树莓派](https://www.raspberrypi.org/)的使命与目标，请到它的主页看看他们都是怎么做的吧。
 
 树莓派是一个手掌大小的计算机，在CodeLab，它是Adapter的家，24小时工作不停，这样我们的门窗、灯光就可以始终待命，随时相应控制指令，通常会通过拼搭Scratch积木发出。
 
 <br>
+
 ## **CodeLab Neverland**
 
 至此，大家多少应该可以理解，以Scratch为起点，基于Adapter，CodeLab将编程与创作的环境从二维的屏幕世界延展到了我们实际身处的三维空间中，CodeLab当前的办公室正是这样被设计并命名为[Neverland](https://blog.just4fun.site/post/%E7%BC%96%E7%A8%8B/neverland-community/)。
