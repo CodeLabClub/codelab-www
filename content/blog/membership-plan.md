@@ -92,7 +92,7 @@ CodeLab目前正式推出企业会员计划，当前有两类企业对我们抱�
 
 以下是我们接下来计划做的事情:
 
-![](http://scratch3-files.just4fun.site/codelab_branch.png)
+![](/video/codelab_branch.png)
 
 欢迎你通过成为会员，帮助我们更好地前进。
 

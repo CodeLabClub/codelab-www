@@ -333,7 +333,7 @@ CodeLab Adapter最近接入了:
 欢迎浏览[演示视频(Gallery)](https://codelab-adapter-docs.codelab.club/user_guide/gallery/)
 
 # CodeLab Mindstorms
-![](http://scratch3-files.just4fun.site/codelab_branch.png)
+![](/video/codelab_branch.png)
 
 在[上一篇近况](https://blog.just4fun.site/Codelab-Recent-situation-and-future.html)中提到CodeLab对未来的规划。
 

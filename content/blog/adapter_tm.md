@@ -27,11 +27,11 @@ Teachable Machine是什么? 我们引用其主页的介绍:
 它基于Web，任何人可以轻松使用它。
 
 ## 展示一下
-<video width=40% src="http://wwj-tmp-video.just4fun.site/google_tf_prediction.mp4" controls="controls"></video>
+<video width=40% src="/video/google_tf_prediction.mp4" controls="controls"></video>
 
 更完整的介绍：
 
-<video width=80% src="http://scratch3-files.just4fun.site/google_tm_demo.mp4" controls="controls"></video>
+<video width=80% src="/video/google_tm_demo.mp4" controls="controls"></video>
 
 ## 如何使用？
 Teachable Machine简单易用，只需3步，你就可以在浏览器上训练自己的机器学习模型
@@ -108,7 +108,7 @@ https://teachablemachine.withgoogle.com/models/Xubn6ODo/
 
 下边的例子展示了在CodeLab Adapter中加载《身体姿态:头部倾斜》，加载之后我们就可以将Teachable Machine的能力带入到Scratch里（以及CodeLab Adapter支持的另外34+编程语言！）
 
-<video width=80% src="http://wwj-tmp-video.just4fun.site/adapter_google_teachable_machine.mp4" controls="controls"></video>
+<video width=80% src="/video/adapter_google_teachable_machine.mp4" controls="controls"></video>
 
 
 

@@ -31,13 +31,13 @@ tags: ["programming"]
 
 ### Jupyter/Python & Scratch
 
-<video width=600px src="http://scratch3-files.just4fun.site/jupyter_scratch.mp4" controls="controls"></video>
+<video width=600px src="/video/jupyter_scratch.mp4" controls="controls"></video>
 
 使用 CodeLab Adapter v2，用户可以在 Jupyter 中编写 Python 代码，并与 Scratch 互操作。
 
 ### 谁动了我的糖果
 
-<video width=600px src="http://scratch3-files.just4fun.site/toio_candy.mp4" controls="controls"></video>
+<video width=600px src="/video/toio_candy.mp4" controls="controls"></video>
 
 使用 CodeLab Adapter v2 的物体追踪插件(OpenCV)实时检测物体，将数据传递给 Scratch，最终在积木里编写程序逻辑，进而让 toio 小方块拥有视觉能力！
 
@@ -47,13 +47,13 @@ CodeLab Adapter v2 可以将任何 Python 程序整合到自身中。这个例�
 
 当你妈妈进入房间的时候，只见你在聚精会神地阅读《理想国》，只是不知为何你喜欢用《权利的游戏》的片头曲作为背景乐。
 
-<video width=600px src="http://scratch3-files.just4fun.site/python_neverland.mp4" controls="controls"></video>
+<video width=600px src="/video/python_neverland.mp4" controls="controls"></video>
 
 这个例子展示的是“当有人推门时，屏幕自动切换到阅读界面”，在 10 行 Python 代码内，为整个生活空间编程。CodeLab Adapter v2 让 Python 入门充满趣味。
 
 ### cube symphony
 
-<video width=600px src="http://scratch3-files.just4fun.site/cube%20symphony.mp4" controls="controls"></video>
+<video width=600px src="/video/cube%20symphony.mp4" controls="controls"></video>
 
 用实体与空间交互，将桌面的物体当作系统 UI，实现类似[Dynamicland](https://dynamicland.org/)空间里交互效果。
 
@@ -67,9 +67,9 @@ CodeLab Adapter 是由[CodeLab](https://www.codelab.club/)构建的基础项目�
 
 在 CodeLab Adapter 驱动的空间里，你可以与万物沟通，你可以让神经网络识别出你的身体部位，进而制作一个体感游戏, 或是通过算法让整个空间变得智能。你可以在朋友生日那天，在 Ta 进门的一刻，将手中的魔杖一挥，在空中划一个字母 L 的轨迹，瞬间，点亮房间里五彩的灯光。在这儿，你将轻松做出这样的魔杖。
 
-<video width=300px src="http://scratch3-files.just4fun.site/wand.mp4" controls="controls"></video>
+<video width=300px src="/video/wand.mp4" controls="controls"></video>
 
-<video width=300px src="http://scratch3-files.just4fun.site/tello_leapmotion.mp4" controls="controls"></video>
+<video width=300px src="/video/tello_leapmotion.mp4" controls="controls"></video>
 
 更多的[演示案例](/user_guide/gallery/)。
 
@@ -200,7 +200,7 @@ CodeLab Adapter v2 是一种分布式设计。
 
 拿前头展示过的一个例子来说:
 
-<video width=600px src="http://scratch3-files.just4fun.site/python_neverland.mp4" controls="controls"></video>
+<video width=600px src="/video/python_neverland.mp4" controls="controls"></video>
 
 在这个例子中， 用户在电脑上，使用 Python 编程，却可以与 Neverland 整个空间交互，驱动 Neverland 的程序跑在树莓派中。如此一来用户的客户端无需任何配置，即可进入编程教学。
 

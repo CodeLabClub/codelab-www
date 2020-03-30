@@ -48,10 +48,10 @@ Linux 之父 Linus Torvalds 有句名言:
 
 挑两个比较好玩的 demo:
 
-<video width=40% src="http://scratch3-files.just4fun.site/wand.mp4" controls="controls"></video>
+<video width=40% src="/video/wand.mp4" controls="controls"></video>
 
 <br/>
-<video width=80% src="http://scratch3-files.just4fun.site/cube%20symphony.mp4" controls="controls"></video>
+<video width=80% src="/video/cube%20symphony.mp4" controls="controls"></video>
 
 ### 开始使用
 
@@ -77,19 +77,19 @@ CodeLab Adapter 的最初的目标之一就是使用 Python 来增强 Scratch �
 
 大家日常使用微信比较多，接下来我们将带领大家基于 CodeLab Adapter 构建一个微信插件，一旦你完成这个插件，你的弟弟妹妹们就可以在[Scratch](https://scratch3v2.codelab.club/)使用`微信积木`来创作好玩的项目了。基于你的插件，孩子们只需要在 Scratch 拖拽积木，拼拼搭搭，就能使用微信与他们的程序互动！或者构建一个新的微信聊天界面:
 
-<video width="80%" src="http://scratch3-files.just4fun.site/wechat.mp4" controls="controls"></video>
+<video width="80%" src="/video/wechat.mp4" controls="controls"></video>
 
 由于[Scratch](https://scratch3v2.codelab.club/)的易用性，你也可以让你奶奶基于你的插件来为微信编程。
 
 这里头可以做的事情还有很多, 诸如同时使用微信插件和 CodeLab Adapter 社区里的 IoT 插件，你就可以使用微信控制家里的电气设备。
 
-<video width="40%" src="http://scratch3-files.just4fun.site/%E8%A6%81%E6%9C%89%E5%85%89.mp4" controls="controls"></video>
+<video width="40%" src="/video/%E8%A6%81%E6%9C%89%E5%85%89.mp4" controls="controls"></video>
 
 设想你组织了个 party，每次有人按门铃都得去开门，是不是很烦躁？
 
 把参与者拉到一个微信群，他们一到门口，在群里吼一身芝麻开门, 门即刻自动打开。 codelab-adapter 一端连接微信，一端连接智能门锁。要做到这点，只需在 Scratch 中拖几块积木，将它们拼一起即可。
 
-<video width="40%" src="http://scratch3-files.just4fun.site/wechat_iot.mp4" controls="controls"></video>
+<video width="40%" src="/video/wechat_iot.mp4" controls="controls"></video>
 
 期待你的奇思妙想。
 

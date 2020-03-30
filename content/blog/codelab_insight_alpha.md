@@ -156,7 +156,7 @@ Scratch社区拥有海量的注册用户(users)、分享项目(projects)、工�
 ### 教育者
 供教育者使用，将其做海量资源库，用于构建教学内容，诸如使用可视化工具轻松找到`孩子们喜欢却不太难的项目`。教育者也可使用Scratch项目结构可视化工具，分析学生项目的构成，从而更好评估`计算思维` (可依据 Mitchel Resnick 2012年发表的论文)
 
-<video width=60% src="http://scratch3-files.just4fun.site/playground5.mp4" controls="controls"></video>
+<video width=60% src="/video/playground5.mp4" controls="controls"></video>
 
 ### 学习者
 供学习者使用，由此构建的推荐系统和`AI教师`，可以直接辅助学习者，为其提供建议，帮助学习者寻找`Peers`(聚类)、寻找感兴趣的`Projects`(协同过滤),以及`Passion`(`favorite`数据是不错的指标)所在。去实现《终生幼儿园》提到的4P(`Projects,Passion,Peers,Play`)。

@@ -12,10 +12,10 @@ slug: "codelab-download"
 
 ## CodeLab Scratch Desktop(离线版)
 
-v1.2.1:
+v1.3.2:
 
--   [Windows](http://scratch3-files.just4fun.site/CodeLab%20Scratch%20Setup%201.2.1.exe) (Windows7 及以上)
--   [MacOS](http://scratch3-files.just4fun.site/CodeLab%20Scratch1.2.1.zip)
+-   [Windows](http://scratch3-files.just4fun.site/CodeLab%20Scratch%20Setup%201.3.2.exe.zip) (Windows7 及以上)
+-   [MacOS](http://scratch3-files.just4fun.site/CodeLab%20Scratch_1.3.2.zip)
 
 ## CodeLab Adapter
 

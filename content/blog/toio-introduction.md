@@ -36,11 +36,11 @@ toio是个惊人的玩具，不只是有轮子。
 ### 模拟生物
 毛毛虫
 
-<video width="600px" src="http://scratch3-files.just4fun.site/toio2.mp4" controls="controls"></video>
+<video width="600px" src="/video/toio2.mp4" controls="controls"></video>
 
 裤子
 
-<video width="600px" src="http://scratch3-files.just4fun.site/toio1.mp4" controls="controls"></video>
+<video width="600px" src="/video/toio1.mp4" controls="controls"></video>
 
 ### 怎么做到的
 初次看到这些视频，多数人会有两个反应。

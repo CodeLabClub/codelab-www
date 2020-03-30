@@ -128,13 +128,13 @@ codelab的志愿者们对此并不满意。
 ### 积木化AI
 AI方面，我们优化了图像分类器的性能(基于[MobileNet](https://arxiv.org/abs/1704.04861))，增加了标签(label)的数量(为了支持联想研究院的小伙伴制作的演示案例)。
 
-<video width="600px" src="http://scratch3-files.just4fun.site/%E9%97%AD%E7%9C%BC%E8%AF%B7%E7%86%84%E7%81%AF.mp4" controls="controls"></video>
+<video width="600px" src="/video/%E9%97%AD%E7%9C%BC%E8%AF%B7%E7%86%84%E7%81%AF.mp4" controls="controls"></video>
 
 在这个例子中，使用不到10个积木训练好神经网络后，制作了《闭眼，请关灯》：当kindle/书籍被翻开时，开灯阅读；当合上Kindle/书籍，闭上眼思考时，自动熄灭灯光。
 
 此外，我们将姿态神经网络变为了积木:
 
-<video width="600px" src="http://scratch3-files.just4fun.site/AR.mp4" controls="controls"></video>
+<video width="600px" src="/video/AR.mp4" controls="controls"></video>
 
 这个例子叫《鼻梁上的老花镜》，它是一个增强现实(AR)作品。通过姿态神经网络我们可以拿到面部地标的数据，你的鼻子、眼睛、耳朵、嘴巴都被积木化了，你可以组合这些积木来创作。
 
@@ -142,13 +142,13 @@ AI方面，我们优化了图像分类器的性能(基于[MobileNet](https://arx
 
 上边的例子属于计算机视觉(CV)，人工智能另一大应用是自然语言处理(NLP)，下边是我们近期与NLP相关的一些例子：
 
-<video width="600px" src="http://scratch3-files.just4fun.site/hi%E6%B8%A1%E8%BE%B9%E5%90%9B.mp4" controls="controls"></video>
+<video width="600px" src="/video/hi%E6%B8%A1%E8%BE%B9%E5%90%9B.mp4" controls="controls"></video>
 
 《hi，渡边君》是一个[聊天机器人（Chatterbot）](https://zh.wikipedia.org/wiki/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA),我们在Python中构建本地Chatterbot（不需要云端支持），之后将其积木化。这个例子展示了我们利用Python来拓展Scratch的设计。通过Python你能极大拓展Scratch的能力，这部分后边细说，我们在这块做了很多有趣的探索。
 
 codelab在自然语言处理(NLP)这块的另一项工作是，利用积木构建智能音箱:
 
-<video width="600px" src="http://scratch3-files.just4fun.site/%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1.mp4" controls="controls"></video>
+<video width="600px" src="/video/%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1.mp4" controls="controls"></video>
 
 利用20个积木不到，你就构建了一个自己的智能音箱，它使用一个Python插件来接入云端Chatterbot，这个插件我们已经开放出来了。我们的所有插件都是开放的。
 
@@ -157,7 +157,7 @@ codelab在自然语言处理(NLP)这块的另一项工作是，利用积木构�
 
 我们接入了[掌控板](https://mpython.readthedocs.io/zh/latest/),掌控板是一块优秀的国产开源硬件，产品层面模仿了micro:bit,但做了很多增强：更好的媒体表现力(屏幕、喇叭)、更强的连接能力(WiFi)
 
-<video width="600px" src="http://scratch3-files.just4fun.site/%E6%8E%8C%E6%8E%A7%E6%9D%BF.mp4" controls="controls"></video>
+<video width="600px" src="/video/%E6%8E%8C%E6%8E%A7%E6%9D%BF.mp4" controls="controls"></video>
 
 接入四轴飞行器，目前支持[Parrot](http://www.parrot.com.cn)三个系列的四轴飞行器:
 
@@ -165,7 +165,7 @@ codelab在自然语言处理(NLP)这块的另一项工作是，利用积木构�
 *  Bebop
 *  Swing
 
-<video width="300px" src="http://scratch3-files.just4fun.site/fly.mp4" controls="controls"></video>
+<video width="300px" src="/video/fly.mp4" controls="controls"></video>
 
 这个例子展示了简单组合积木所带来的威力：通过拼搭leap motion积木和四轴飞行器积木，我们就可以利用手势指挥四轴飞行器。
 
@@ -173,18 +173,18 @@ codelab在自然语言处理(NLP)这块的另一项工作是，利用积木构�
 
 codelab.club计划使用Vector进行AI教育。[codelab-adapter](https://codelab-adapter-docs.codelab.club/)是全球第一个将Vector积木化的工具，我们甚至赶在了官方的前边。今年上半年anki(Vector所属的公司)就推荐社区里关心教育的用户，使用[codelab-adapter](https://codelab-adapter-docs.codelab.club/)作为将Cozmo接入教育平台的工具。
 
-<video width="300px" src="http://scratch3-files.just4fun.site/vector_leapmotion.mp4" controls="controls"></video>
+<video width="300px" src="/video/vector_leapmotion.mp4" controls="controls"></video>
 
 ### 家庭娱乐设备
 Switch颠覆了人们对游戏机的看法，Switch被看作家庭娱乐中心，它鼓励社交、合作和创造。Switch Labo的推出，更是掀起了全球的尖叫与狂欢。
 
 [codelab-adapter](https://codelab-adapter-docs.codelab.club/)的目标是将万物积木化，我们当然不会错过Switch Labo这种充满创意的事物。
 
-<video width="300px" src="http://scratch3-files.just4fun.site/switch_light.mp4" controls="controls"></video>
+<video width="300px" src="/video/switch_light.mp4" controls="controls"></video>
 
 在这个例子中，我们利用Switch的外围设备(模型枪)来击灭房间里的灯。利用积木你可以把房间改造为战场。
 
-<video width="600px" src="http://scratch3-files.just4fun.site/%E5%B0%8F%E6%88%BF%E9%97%B4%E4%B8%8E%E5%A4%A7%E6%88%BF%E9%97%B4.mp4" controls="controls"></video>
+<video width="600px" src="/video/%E5%B0%8F%E6%88%BF%E9%97%B4%E4%B8%8E%E5%A4%A7%E6%88%BF%E9%97%B4.mp4" controls="controls"></video>
 
 在这个例子中，我们将Switch labo的瓦楞纸小房间与现实的大房间连接在一起。
 
@@ -193,11 +193,11 @@ Switch颠覆了人们对游戏机的看法，Switch被看作家庭娱乐中心�
 
 不喜欢微信的聊天界面？没关系，在Scratch中制作自己的聊天界面：
 
-<video width="600px" src="http://scratch3-files.just4fun.site/wechat.mp4" controls="controls"></video>
+<video width="600px" src="/video/wechat.mp4" controls="controls"></video>
 
 天冷不想起床关灯？没关系，发一条微信消息就行：
 
-<video width="350px" src="http://scratch3-files.just4fun.site/%E8%A6%81%E6%9C%89%E5%85%89.mp4" controls="controls"></video>
+<video width="350px" src="/video/%E8%A6%81%E6%9C%89%E5%85%89.mp4" controls="controls"></video>
 
 
 ### 更多
@@ -217,7 +217,7 @@ Switch颠覆了人们对游戏机的看法，Switch被看作家庭娱乐中心�
 ### 增强插件系统
 为了方便开发者和公司将自己的设备更容易地接入，我们完善了[文档](https://codelab-adapter-docs.codelab.club/)；增强了Scratch与Python的连接: [Python与Scratch的双向通信](https://blog.just4fun.site/python-scratch-with-adapter.html),给开发者更多的自由。
 
-<video width="600px" src="http://scratch3-files.just4fun.site/dlib_face.mp4" controls="controls"></video>
+<video width="600px" src="/video/dlib_face.mp4" controls="controls"></video>
 
 这个例子展示了，如何将Python写的检测面部关键点的程序积木化到Scratch中。
 
