@@ -133,3 +133,6 @@ theme = "airspace-hugo"
     #[params.contact.gmaps]
     #  enable = false
     #  title = "We Also Count in Google Maps"
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
