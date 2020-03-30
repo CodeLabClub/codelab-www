@@ -60,7 +60,7 @@ Alan Kay以上说出的不只是自己的心声，至少也是Mitch Resnick的�
 
 CodeLab Scratch也内含线上社区，鼓励大家分享自己的scratch作品以及基于scratch联通其他软硬件所做的创意作品。给大家看一个具体的例子：***收工吃饭***（[文档说明页](https://adapter.codelab.club/Neverland/finger-snapping/), [CodeLab Scratch项目页](https://scratch.codelab.club/projects/23/editor/)）。
 
-此外，文杰前段时间还开发了用于探索Scratch社区海量作品的工具，[CodeLab Insight](http://insight.codelab.club:18000/)。利用它，我们可以分析整理社区中这些横向种类丰富、纵向难度有别的作品。那些吸引孩子、适合他们模仿学习的作品，可能就是个性化的学习素材。
+此外，文杰前段时间还开发了用于探索Scratch社区海量作品的工具，[CodeLab Insight](/blog/codelab-insight-alpha/)。利用它，我们可以分析整理社区中这些横向种类丰富、纵向难度有别的作品。那些吸引孩子、适合他们模仿学习的作品，可能就是个性化的学习素材。
 
 以上就是基于Scratch本身，CodeLab对其所做的不同思考与增强，即[CodeLab Scratch](https://scratch3.codelab.club/)。
 
@@ -86,7 +86,7 @@ CodeLab Scratch也内含线上社区，鼓励大家分享自己的scratch作品�
 > 2. 为CodeLab Adapter引入micro:bit生态里的内容和套件
 > 3. 最后为Scratch生态引入以上两者
 
-如何将一个或多个Micro:bit接入Adapter，这里有详细的[教程](https://adapter.codelab.club/extension_guide/microbit/)与[案例分享](https://adapter.codelab.club/extension_guide/microbit_radio/)。
+如何将[一个](https://adapter.codelab.club/extension_guide/microbit/)或[多个](https://adapter.codelab.club/extension_guide/microbit_radio/)Micro:bit接入Adapter，这里有详细的[教程](https://adapter.codelab.club/extension_guide/microbit/)与[案例分享](https://adapter.codelab.club/extension_guide/microbit_radio/)。
 
 **Teachable Machine —— AI**
 
