@@ -106,15 +106,11 @@ Python是当下最主流的编程语言之一，也是许多孩子和成人学�
 
 如何实现Scratch与Python之间信息的流通，下面这些教程与项目可供参考：
 
-[为Scratch3.0设计的插件系统(上篇)](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/scratch3-plugin-1/)
-
-[为Scratch3.0设计的插件系统(下篇)](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/scratch3-plugin-2/)
-
-[创建你的第一个Scratch3.0 Extension](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/create-first-scratch3-extension/) 
-
-[使用Python拓展Scratch的能力](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/scratch-adapter-eim-script/) 
-
-[EIM Monitor插件使用教程](https://codelab-adapter-docs.codelab.club/extension_guide/eim_monitor/)
+*  [为Scratch3.0设计的插件系统(上篇)](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/scratch3-plugin-1/)
+*  [为Scratch3.0设计的插件系统(下篇)](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/scratch3-plugin-2/)
+*  [创建你的第一个Scratch3.0 Extension](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/create-first-scratch3-extension/) 
+*  [使用Python拓展Scratch的能力](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/scratch-adapter-eim-script/) 
+*  [EIM Monitor插件使用教程](https://codelab-adapter-docs.codelab.club/extension_guide/eim_monitor/)
 
 **Yeelight彩光灯 —— 智能家居设备**
 
