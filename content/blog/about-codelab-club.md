@@ -41,10 +41,10 @@ CodeLab的第一笔捐赠来自罗云先生,这笔捐赠让我们得以全力以
 ```python
 from pypinyin import lazy_pinyin
 # import random
-chars = ["曾铮","罗云","程晨","吴文杰","刘鑫","钱振方","陈爱华","崔欣","瞿旻","李懿","何海泉","左翔","沈煜"]
+chars = ["曾铮","罗云","程晨","吴种瓜","刘鑫","钱振方","陈爱华","崔欣","瞿旻","李懿","何海泉","左翔","沈煜"]
 chars.sort(key=lambda char: lazy_pinyin(char)[0][0])
 print([lazy_pinyin(char) for char in chars])
-print(chars) # ['程晨', '陈爱华', '崔欣', '何海泉', '罗云', '刘鑫', '李懿', '钱振方', '瞿旻', '沈煜','孙彬彬', '吴文杰', '左翔','曾铮']
+print(chars) # ['程晨', '陈爱华', '崔欣', '何海泉', '罗云', '刘鑫', '李懿', '钱振方', '瞿旻', '沈煜','孙彬彬', '吴种瓜', '左翔','曾铮']
 # random.shuffle(list)
 print(list)
 ```
@@ -56,7 +56,7 @@ print(list)
 
 <script>
 var random_names = document.querySelector('#random_names');
-var pinyin_names = ['程晨', '陈爱华', '崔欣', '陈海权', '罗云', '刘鑫', '李懿', '钱振方', '瞿旻', '沈煜', '孙彬彬', '吴文杰', '左翔','曾铮']
+var pinyin_names = ['程晨', '陈爱华', '崔欣', '陈海权', '罗云', '刘鑫', '李懿', '钱振方', '瞿旻', '沈煜', '孙彬彬', '吴种瓜', '左翔','曾铮']
 random_names.innerHTML = pinyin_names.sort(function() { return 0.5 - Math.random() });
 </script>
 

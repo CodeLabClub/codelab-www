@@ -50,7 +50,7 @@ Alan Kay以上说出的不只是自己的心声，至少也是Mitch Resnick的�
   
 从上文引用的Alan Kay的话，或许就能预见到，这又是以Scratch为起点可以追溯的另一条重要线索。个人电脑（PC）概念的提出、Smalltalk编程语言、以及图形交互界面（Graphical User Interface, GUI），可能最常被用来概括Alan Kay的工作，而这三者都与他对适合儿童使用的计算机的思考直接相关。最具体地体现这些工作、和Scratch渊源最近的，应该就是他们为孩子提供的[Etoys](http://www.squeakland.org/)（仍可以下载安装使用）这一媒体形式丰富的创作环境。Scratch显然深受其影响，而且最早的版本也是用相同的Squeak语言创作的。并列于Seymour Papert，Alan Kay是CodeLab的另一高频关键词。在此引用，同样只是为了说明Scratch对于CodeLab的第二层意义，即溯源的起始点之一。此目的既已达到，其余的也就先按下不表。
 
-（文杰这篇写于2017年的有关[Scratch前世今生](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/scratch/)的文章，非常具体地体现了我们所谓的溯源。）
+（种瓜这篇写于2017年的有关[Scratch前世今生](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/scratch/)的文章，非常具体地体现了我们所谓的溯源。）
 
 最后，从实际的功用角度考虑，Scratch当下对于CodeLab还有另一意义：即它是与其他事物联通的重要枢纽，对用户友好的可编程空间的控制中心。至此，也就引出了CodeLab Scratch。
 
@@ -60,7 +60,7 @@ Alan Kay以上说出的不只是自己的心声，至少也是Mitch Resnick的�
 
 CodeLab Scratch也内含线上社区，鼓励大家分享自己的scratch作品以及基于scratch联通其他软硬件所做的创意作品。给大家看一个具体的例子：***收工吃饭***（[文档说明页](https://adapter.codelab.club/Neverland/finger-snapping/), [CodeLab Scratch项目页](https://scratch.codelab.club/projects/23/editor/)）。
 
-此外，文杰前段时间还开发了用于探索Scratch社区海量作品的工具，[CodeLab Insight](/blog/codelab-insight-alpha/)。利用它，我们可以分析整理社区中这些横向种类丰富、纵向难度有别的作品。那些吸引孩子、适合他们模仿学习的作品，可能就是个性化的学习素材。
+此外，种瓜前段时间还开发了用于探索Scratch社区海量作品的工具，[CodeLab Insight](/blog/codelab-insight-alpha/)。利用它，我们可以分析整理社区中这些横向种类丰富、纵向难度有别的作品。那些吸引孩子、适合他们模仿学习的作品，可能就是个性化的学习素材。
 
 以上就是基于Scratch本身，CodeLab对其所做的不同思考与增强，即[CodeLab Scratch](https://scratch3.codelab.club/)。
 
@@ -78,7 +78,7 @@ CodeLab Scratch也内含线上社区，鼓励大家分享自己的scratch作品�
 
 在CodeLab，[Micro:bit](https://microbit.org/)的地位恐怕与Scratch不相上下。Scratch是存在于我们浏览器中的创作环境，本质是虚拟的软件系统；来自英国BBC的Micro:bit则是一个小小的可装在口袋里的物理计算机，是我们能真实拿在手里把玩的硬件。相似的是，Micro:bit也是特别为孩子设计的开源项目，除了这个小家伙外，围绕编程与自由创作，官网上还有丰富且免费的学习资源供孩子以及老师任意使用。根据自己的程度或偏好，孩子可以选择用图形化的MakeCode编辑器或是Python编辑器为Micro:bit编程，完成自己的小项目。
 
-至于Adapter与Micro:bit以及Scratch三者的关系，可以参考文杰在[CodeLab Adapter深度连接micro:bit生态](https://www.codelab.club/blog/codelab-adapter-microbit-deep-connect/)这篇文章中的论述，他在最后做了如下总结：
+至于Adapter与Micro:bit以及Scratch三者的关系，可以参考种瓜在[CodeLab Adapter深度连接micro:bit生态](https://www.codelab.club/blog/codelab-adapter-microbit-deep-connect/)这篇文章中的论述，他在最后做了如下总结：
 
 >通过深度连接micro:bit生态，我们能做什么，我想到以下三点：
 > 
@@ -96,13 +96,13 @@ CodeLab Scratch也内含线上社区，鼓励大家分享自己的scratch作品�
 
 **Vector —— 机器人**
 
-Vector与Cozmo是文杰的[心头好](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/cozmo-hello-world/)机器人，由美国前[Anki](https://anki.com/en-us.html)公司设计与制造。
+Vector与Cozmo是种瓜的[心头好](https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/cozmo-hello-world/)机器人，由美国前[Anki](https://anki.com/en-us.html)公司设计与制造。
 
 [这篇教程](https://adapter.codelab.club/extension_guide/vector/)会向你演示如何将Vector接入Adapter，实现它与其他小伙伴的交互。
 
 **Python —— 编程语言**
 
-Python是当下最主流的编程语言之一，也是许多孩子和成人学习编程时的首选。如Micro:bit项目就同时支持图形化编程语言MakeCode和文本性的Python，孩子可以根据自己的偏好，自由选择任意一种在线编辑器对Micro:bit编程，官网上也分享了分别使用这两种编程语言完成的趣味项目，供孩子在做中学习。巧的是，因为Adapter的开发者——文杰同学自己对Python的偏好，Adapter本身就是用Python编写的，所以Python与Scratch的联通从Adapter被编写出就自然存在了。进一步，通过为Scratch编写EIM(Everything is message)插件，实现Scratch与Python相互间信息的传递。这样做的目的，一方面是利用Python增强Scratch的能力，另一方面是为想要从Scratch过渡至Python的学习者提供帮助。
+Python是当下最主流的编程语言之一，也是许多孩子和成人学习编程时的首选。如Micro:bit项目就同时支持图形化编程语言MakeCode和文本性的Python，孩子可以根据自己的偏好，自由选择任意一种在线编辑器对Micro:bit编程，官网上也分享了分别使用这两种编程语言完成的趣味项目，供孩子在做中学习。巧的是，因为Adapter的开发者——种瓜同学自己对Python的偏好，Adapter本身就是用Python编写的，所以Python与Scratch的联通从Adapter被编写出就自然存在了。进一步，通过为Scratch编写EIM(Everything is message)插件，实现Scratch与Python相互间信息的传递。这样做的目的，一方面是利用Python增强Scratch的能力，另一方面是为想要从Scratch过渡至Python的学习者提供帮助。
 
 如何实现Scratch与Python之间信息的流通，下面这些教程与项目可供参考：
 

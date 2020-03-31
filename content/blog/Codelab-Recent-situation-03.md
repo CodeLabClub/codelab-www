@@ -60,7 +60,7 @@ CodeLab的演讲PPT、Neverland的亮灯仪式，都由`CodeLab`构建的工具�
 
 <script>
 var random_names = document.querySelector('#random_names');
-var pinyin_names = ['程晨', '曾铮', '罗云', '吴文杰']
+var pinyin_names = ['程晨', '曾铮', '罗云', '吴种瓜']
 random_names.innerHTML = pinyin_names.sort(function() { return 0.5 - Math.random() });
 </script>
 
@@ -430,7 +430,7 @@ codelab 启动仪式
 
 由于隐私在国外比较受重视，我们对拍摄的照片全部做了处理（不露脸），避免侵犯隐私。
 
-2019年4月5号，CodeLab核心志愿者@Finn、CodeLab 2位理事@曾铮、@吴文杰一同到MIT Media Lab拜访，见面时，@Kreg十分热情，带着我们逛了一圈Media Lab，介绍了许多有趣的东西。
+2019年4月5号，CodeLab核心志愿者@Finn、CodeLab 2位理事@曾铮、@吴种瓜一同到MIT Media Lab拜访，见面时，@Kreg十分热情，带着我们逛了一圈Media Lab，介绍了许多有趣的东西。
 
 我们分享了CodeLab Adapter在增强Scratch这方面的思考和探索，@Kreg对我们设计的开放式插件系统很感兴趣，就着[架构图](https://codelab-adapter-docs.codelab.club/dev_guide/Architecture/)聊了很久。@Kreg很快理解了架构背后的设计意图和原则，他要了份PPT，准备就这个话题在[Lifelong Kindergarten小组](https://www.media.mit.edu/groups/lifelong-kindergarten/overview/)内部再做个分享和讨论，可能会将我们的设计用于增强Scratch，@Kreg计划在今年七月份到CodeLab Neverland参观交流。
 
