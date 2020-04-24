@@ -6,16 +6,16 @@ slug: "codelab-download"
 ---
 
 ## CodeLab Scratch Online(在线版，免安装)
-<a href="https://scratch3v2.codelab.club/" target="_blank">CodeLab Scratch</a>
+<a href="https://scratch3v3.codelab.club/" target="_blank">CodeLab Scratch</a>
 
 推荐使用Chrome/Firefox浏览器。
 
 ## CodeLab Scratch Desktop(离线版)
 
-v1.3.2:
+v3.0.0:
 
--   [Windows](http://scratch3-files.just4fun.site/CodeLab%20Scratch%20Setup%201.3.2.exe.zip) (Windows7 及以上)
--   [MacOS](http://scratch3-files.just4fun.site/CodeLab%20Scratch_1.3.2.zip)
+-   [Windows](https://scratch3-files.just4fun.site/CodeLab%20Scratch%20Setup%203.0.0.exe.zip) (Windows7 及以上)
+-   [MacOS](https://scratch3-files.just4fun.site/CodeLab%20Scratch%203.0.0.app.zip)
 
 ## CodeLab Adapter
 

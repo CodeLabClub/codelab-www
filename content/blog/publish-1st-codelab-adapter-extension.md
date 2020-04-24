@@ -63,23 +63,23 @@ Linux 之父 Linus Torvalds 有句名言:
 
 前头看到的视频里，经常出现一个充满彩色小块的界面，那东西叫[Scratch](https://zh.wikipedia.org/zh/Scratch)。
 
-CodeLab Adapter 最初的名字叫 Scratch Adapter，不知道你用没用过 [Scratch](https://scratch3v2.codelab.club/)，如果你小时候没用过，你的弟弟妹妹们现在很可能正在用，它是这么个东西
+CodeLab Adapter 最初的名字叫 Scratch Adapter，不知道你用没用过 [Scratch](https://scratch3v3.codelab.club/)，如果你小时候没用过，你的弟弟妹妹们现在很可能正在用，它是这么个东西
 
 <img src="https://adapter.codelab.club/img/v2/scratch_eim_read_value.png" width=600>
 
 Scratch 是个图形化编程工具，那些没有编程经验的孩子可以很快上手，使用它创作故事、游戏、交互艺术...目前全球有超过 4000 万的孩子使用它创作了数以亿计的编程项目。
 
-CodeLab Adapter 的最初的目标之一就是使用 Python 来增强 Scratch 的能力，让[Scratch](https://scratch3v2.codelab.club/)能够方便地构建与 AI、IoT、开源硬件有关的项目，它的最终目标是支持[约翰·杜威](https://zh.wikipedia.org/zh/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9D%9C%E5%A8%81)提倡的:
+CodeLab Adapter 的最初的目标之一就是使用 Python 来增强 Scratch 的能力，让[Scratch](https://scratch3v3.codelab.club/)能够方便地构建与 AI、IoT、开源硬件有关的项目，它的最终目标是支持[约翰·杜威](https://zh.wikipedia.org/zh/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9D%9C%E5%A8%81)提倡的:
 
 > Education is life.
 
 # 构建一个微信插件吧
 
-大家日常使用微信比较多，接下来我们将带领大家基于 CodeLab Adapter 构建一个微信插件，一旦你完成这个插件，你的弟弟妹妹们就可以在[Scratch](https://scratch3v2.codelab.club/)使用`微信积木`来创作好玩的项目了。基于你的插件，孩子们只需要在 Scratch 拖拽积木，拼拼搭搭，就能使用微信与他们的程序互动！或者构建一个新的微信聊天界面:
+大家日常使用微信比较多，接下来我们将带领大家基于 CodeLab Adapter 构建一个微信插件，一旦你完成这个插件，你的弟弟妹妹们就可以在[Scratch](https://scratch3v3.codelab.club/)使用`微信积木`来创作好玩的项目了。基于你的插件，孩子们只需要在 Scratch 拖拽积木，拼拼搭搭，就能使用微信与他们的程序互动！或者构建一个新的微信聊天界面:
 
 <video width="80%" src="/video/wechat.mp4" controls="controls"></video>
 
-由于[Scratch](https://scratch3v2.codelab.club/)的易用性，你也可以让你奶奶基于你的插件来为微信编程。
+由于[Scratch](https://scratch3v3.codelab.club/)的易用性，你也可以让你奶奶基于你的插件来为微信编程。
 
 这里头可以做的事情还有很多, 诸如同时使用微信插件和 CodeLab Adapter 社区里的 IoT 插件，你就可以使用微信控制家里的电气设备。
 

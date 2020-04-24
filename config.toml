@@ -35,7 +35,7 @@ theme = "airspace-hugo"
   [[menu.footer]]
     weight = 2
     name = "CodeLab Adapter"
-    url = "https://adapterv2.codelab.club/"
+    url = "https://adapter.codelab.club/"
   # [[menu.footer]]
   #   weight = 3
   #   name = "How it works"

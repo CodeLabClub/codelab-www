@@ -14,7 +14,7 @@ date: 2018-07-25T14:41:04+08:00
         <p>CodeLab是非营利组织，致力于传递编程的乐趣，帮助孩子成为数字时代的创作者。</p>
         <p>CodeLab更完整的介绍在<a href="https://www.codelab.club/blog/about-codelab-club/" target="_blank">这里</a>。</p>
         <hr/>
-        <h2>Join us</h2>
+        <a href="/blog/join-us/" target="_blank"><h2>Join us</h2></a>
         <p>我们推荐你阅读以下书籍:</p>
         <ul>
           <li>《Mindstorms》(西摩尔·派普特)</li>

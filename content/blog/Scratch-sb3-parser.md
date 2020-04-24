@@ -57,7 +57,7 @@ sb3如何使用呢?
 
 ### 正式使用
 
-我们对[Pong_Starter.sb3](https://adapter.codelab.club/sb3/Pong_Starter.sb3)进行一些测试, 你可以在[CodeLab Scratch打开它](https://scratch3v2.codelab.club/?sb3url=https://adapter.codelab.club/sb3/Pong_Starter.sb3)。
+我们对[Pong_Starter.sb3](https://adapter.codelab.club/sb3/Pong_Starter.sb3)进行一些测试, 你可以在[CodeLab Scratch打开它](https://scratch3v3.codelab.club/?sb3url=https://adapter.codelab.club/sb3/Pong_Starter.sb3)。
 
 ![](/img/scratch_Pong_Starter.png)
 
@@ -68,7 +68,7 @@ sb3如何使用呢?
 ## 分析有插件的项目
 接下来让我们来分析一个带有CodeLab自定义插件的项目:
 
-[microbit_乐器.sb3](https://scratch3v2.codelab.club/?sb3url=https://adapter.codelab.club/sb3/microbit_%E4%B9%90%E5%99%A8.sb3)
+[microbit_乐器.sb3](https://scratch3v3.codelab.club/?sb3url=https://adapter.codelab.club/sb3/microbit_%E4%B9%90%E5%99%A8.sb3)
 
 <img src="/img/sb3_python_extensions.png" width=600 />
 
