@@ -3,6 +3,7 @@ title: CodeLab暗号之可编程空间
 author: CodeLab
 date: 2020-04-23
 tags: ["codelab"]
+author: CodeLab
 ---
 
 <img class="img-responsive" src="/img/CodeLabSpace.png" />
@@ -23,7 +24,7 @@ tags: ["codelab"]
 
 先上一张图。
 
-![adapterdiagram](/img/adapterdiagram.PNG)
+![adapterdiagram](/img/adapterdiagram.png)
 
 大家应该可以从背景中隐约看到上一张“全家福”，在此，我们是要故意抹掉“全家福”中各智能设备的形态特征，只抽取他们核心且相通的“生物”特性，从而以抽象但更清晰简洁地图形展现系统的构成以及Adapter的作用。
 
