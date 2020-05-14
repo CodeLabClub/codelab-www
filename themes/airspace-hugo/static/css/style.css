@@ -32,3 +32,52 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+/*
+ * 以下为新增的关于表格样式的设置
+ */
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid #f0f0f6;
+
+}
+
+thead th {
+  text-align: center;
+  letter-spacing: 4px;
+  background-color: #ffb273;
+  color:#ffffff;
+}
+
+tbody td:nth-child(1) {
+  width: 50%;
+}
+
+tbody td:nth-child(2) {
+  width: 50%;
+}
+
+tbody th {
+  letter-spacing: 1px;
+  text-align: justify;
+  background-color:#E1E1ED;
+  color:#5B5F97;
+ 
+}
+
+tbody td {
+  letter-spacing: 1px;
+  background-color:#FFFFFF ;
+  color:#5B5F97;
+  text-align: justify;
+
+}
+
+
+ 
+
+
+

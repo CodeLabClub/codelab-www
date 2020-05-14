@@ -288,11 +288,12 @@
 .markdown-body table {
   border-collapse: collapse;
   border-spacing: 0;
+  background-color:#84b9ef;
 }
 
 .markdown-body td,
 .markdown-body th {
-  padding: 0;
+  padding: 0px;
 }
 
 .markdown-body details summary {
