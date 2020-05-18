@@ -38,7 +38,7 @@
  */
 
 table {
-  table-layout: fixed;
+  table-layout: auto;
   width: 100%;
   border-collapse: collapse;
   border: 2px solid #f0f0f6;
@@ -47,9 +47,24 @@ table {
 
 thead th {
   text-align: center;
-  letter-spacing: 4px;
+  letter-spacing: 10%;
   background-color: #ffb273;
   color:#ffffff;
+  font-size: 40px;
+}
+
+.head2 {
+  background-color: #7b7eac;
+  color: white; 
+  text-align: center;
+  font-size: 30px;
+}
+
+.name {
+  text-align:center;
+  background-color:#E1E1ED; 
+  color:#5B5F97;
+  font-size:25px;
 }
 
 tbody td:nth-child(1) {
@@ -61,8 +76,8 @@ tbody td:nth-child(2) {
 }
 
 tbody th {
-  letter-spacing: 1px;
-  text-align: justify;
+  letter-spacing: 2px;
+  text-align: center;
   background-color:#E1E1ED;
   color:#5B5F97;
  
@@ -74,6 +89,19 @@ tbody td {
   color:#5B5F97;
   text-align: justify;
 
+}
+
+.item {
+  text-align:center;
+  background-color: #f0f0f6;
+  font-weight :bolder;
+}
+
+tfoot th {
+  background-color:#ffb273; 
+  color: white; 
+  text-align: center;
+  font-size: 30px;
 }
 
 
