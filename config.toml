@@ -61,7 +61,7 @@ theme = "airspace-hugo"
   [[menu.footer]]
     weight = 6
     name = "Github"
-    url = "https://github.com/scratch3lab"
+    url = "https://github.com/codelabclub"
 
   [[menu.footer]]
     weight = 7
