@@ -42,7 +42,7 @@ DynamicTable 是:
 
 <video width=80% src="https://adapter.codelab.club/video/1590665913541756.mp4" controls="controls"></video>
 
-关于 DynamicTable 的更多信息参考:
+关于 DynamicTable 的更多信息， 请参考:
 
 -   [CodeLab DynamicTable: A Seeing World](https://www.codelab.club/blog/codelab-dynamictable-a-seeing-world/)
 -   [CodeLab DynamicTable: 一个可实施的技术方案](https://www.codelab.club/blog/codelab-dynamictable-an-instance/)
@@ -65,11 +65,20 @@ DynamicTable 是:
 
 主要用于构建 DynamicTable。前边已经论述。
 
-当然该插件也可以用于其他用途，诸如周末活动的参与者 @taotao 今天在 Neverland 里编程时发现，在用户未接触 marker 时，它的空间信息仍然会发生细微变化，一开始我们都感到疑惑，以为是代码有问题。经过排查，发现原因是因为摄像机能捕获到肉眼不可见的 marker 位置变化, 而 marker 的位置变化则由桌面的微小震动引起(通过实验获知)，所以它可以用于检测桌子的震动！
+当然该插件也可以用于其他用途。
+
+![](https://adapter.codelab.club/img/0bc248880a7066575ce7d9e4a4a977ec.png)
+
+诸如周末活动的参与者 @taotao 今天在 Neverland 里编程时发现，在他没有动手拧动贴有 marker 的纸质方向盘时，marker 的角度信息仍然会发生细微变化，一开始我们都感到疑惑，以为是个bug。但经过排查，发现原因是因为摄像机能捕获到肉眼不可见的 marker 位置变化, 而 marker 的位置变化则由桌面的微小震动引起(通过实验获知)，所以它可以用于检测桌子的震动！
+
+
+以上是程序代码，从舞台区的变量值，可以看到精度很高，能检测微小的震动引起的 marker 空间位置变化信息。而 Scratch 的动态交互式风格，让@taotao 在 debug 时发现了这个细微变化，提出这个看起来像是 bug 的问题，它实际是一个发现！
+
+如果进一步放大震动，甚至有可能用于检测地震。
 
 这是我们设计 node_physical_blocks 插件时，未曾想到的应用场景，由一个编程入门者的疑惑引起的发现。
 
-如果进一步放大震动，甚至有可能用于检测地震。
+我试着从今天的例子中，寻找原因。CodeLab 的活动围绕项目以及编程者的兴趣展开，由于其非体系化的结构，允许编程者自由探索活动过程的意外问题，而不是急着抵达某种教科书预设的知识或是算法技巧。
 
 ### node_eim_monitor 插件
 
@@ -101,7 +110,7 @@ Yanshee 是一个开放的硬件平台，采用 Raspberry Pi + STM32 开放式�
 
 ## 增强自省能力
 
-CodeLab Scratch EIM 插件增加了 `is_adapter_running` 积木，从而允许用户动态得获取 Adapter 运行情况。
+CodeLab Scratch EIM 插件增加了 `is Adapter running` 积木，从而允许用户动态得获取 Adapter 运行情况。
 
 ![](https://adapter.codelab.club/img/206dfb1db7d27c3302b7f4a35796fc06.png)
 
@@ -119,6 +128,13 @@ Adapter Version 目前已经添加到 env 中，可供外部应用程序查询�
 -   修复关闭 node 引起的问题。
 -   修复 node_minecraft 和 node_raspberrypi 的 bug。在 Scratch 中填入设备 IP，而不需要手动修改 Adapter 插件。
 -   增强 CodeLab Scratch json 插件，并[添加社区文档](https://adapter.codelab.club/extension_guide/json/).
--   [@Hanson 同学](https://rcfclass7.wordpress.com/author/hansonxie/)为我们构建了 Box2D 插件的 [文档](https://adapter.codelab.club/extension_guide/Box2D/)
--   Cozmo/Vector 社区用户提到说 `I’ve been playing with the Codelabs setup for Vector, but I am unable to work out how to return status variables from Vector.`，我们之前只在 Cozmo 中完成这个功能，此次更新，将 Cozmo 的 sensor/event 迁移到了 Vector 插件中。
+-   [@Hanson 同学](http://www.concentric-circle.com/author/admin/)为我们构建了 Box2D 插件的 [文档](https://adapter.codelab.club/extension_guide/Box2D/)
+-   Cozmo/Vector 社区用户@moxley71提到说 `I’ve been playing with the Codelabs setup for Vector, but I am unable to work out how to return status variables from Vector.`，我们之前只在 Cozmo 中完成这个功能，此次更新，将 Cozmo 的 sensor/event 迁移到了 Vector 插件中。
+    -  哈哈，也贴上@moxley71看到我们的更新后的吹捧 `Wow, fantastic response time. I wasn’t expecting this to be looked at, let alone addressed for at least a week. You sir, are a star! `
 -   改进 extension_webserver 插件:[文档](https://adapter.codelab.club/extension_guide/webserver/)，用户可以在 Adapter 中轻松构建自己的第一个网站。
+
+# 开始使用
+
+[下载最新 Adapter](https://adapter.codelab.club/user_guide/install/)。
+
+配合 [CodeLab Scratch](http://scratch3v3.codelab.club/) 使用时，建议刷新浏览器缓存。
