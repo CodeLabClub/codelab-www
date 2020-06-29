@@ -1,4 +1,4 @@
-# codelab.club 主站
+# CodeLab 主站
 
 # 依赖
 *  [hugo](http://www.gohugo.org/)
