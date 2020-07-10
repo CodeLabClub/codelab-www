@@ -38,10 +38,6 @@ v3.3.2:
 -   [Windows](http://scratch3-files.just4fun.site/python-3.7.4.exe)
 -   [MacOS](http://scratch3-files.just4fun.site/python-3.7.5-macosx10.9.pkg)
 
-### Anaconda(Python)
-
-[Download Anaconda](https://www.anaconda.com/distribution/)
-
 ## Editor
 
 ### Mu editor
