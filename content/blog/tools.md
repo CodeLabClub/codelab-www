@@ -25,8 +25,8 @@ v3.3.2:
 
 ## Scratch Link
 
--   [Windows](http://scratch3-files.just4fun.site/ScratchLinkSetup.msi)
--   [MacOS](http://scratch3-files.just4fun.site/ScratchLinkSetup.pkg)
+-   [Windows](http://scratch3-files.just4fun.site/mac.zip)
+-   [MacOS](http://scratch3-files.just4fun.site/windows.zip)
 
 ## Chrome
 
