@@ -1,6 +1,6 @@
 ---
 Date: 2020-06-28
-title: "Hey Siri, 控制乐高"
+title: "Hey Siri"
 Slug: hey-siri-control-lego
 tags: ["CodeLab"]
 author: CodeLab

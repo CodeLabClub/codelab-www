@@ -1,5 +1,5 @@
 title = "CodeLab"
-baseURL = "https://www.codelab.club/"
+baseURL = "https://www-old.codelab.club/"
 languageCode = "zh-cn"
 theme = "airspace-hugo"
 
