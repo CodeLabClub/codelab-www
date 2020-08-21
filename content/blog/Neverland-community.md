@@ -15,7 +15,7 @@ author: "种瓜"
 <!--more-->
 
 
-<video width="80%" src="/video/1583729439575050.mp4" controls="controls"></video>
+<video width="80%" src="https://adapter.codelab.club/video/1583729439575050.mp4" controls="controls"></video>
 
 我们于2019年5月份完成CodeLab Neverland。 接受外部访问后，陆续收到许多访问预约，前后也接待了不少教育从业者/IT从业者(`>100`)。
 
